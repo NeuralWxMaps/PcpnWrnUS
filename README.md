@@ -1,3 +1,3 @@
 # PcpnWrnUS
-Precipitation forecasts for the western United States and SOM phase-space plots
+Precipitation forecasts and SOM phase-space plots for the western United States
 This project uses data collected from the National Weather Service Environmental Modeling Center using the NOMADS server. Data is fed through a Self-organizing map algorithm that adjusts an array of data vectors with weighted adjustments determined by a nearest neighbor search of the data vectors.  Surface precipitation data is being collected from all of the members of the Global Ensemble Forecast System (GEFS) at half degree by half degree resolution.  The western United States domain covers from the Pacific Coast to the midwest and southern Plains.  More than 3000 unique surface precipitation patterns will eventually be defined.  Phase-space plots of algorithm output shows the dispersion of ensemble member forecasts as the lead time increases.   
