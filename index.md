@@ -27,8 +27,8 @@ Neural Weather Maps
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and 
-![Image](src='PcpnSOMpttn740W.png')
+[Link](url)
+![Pattern740W](https://neuralwxmaps.github.com/images/PcpnSOMpttn740W.png')
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
