@@ -12,9 +12,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+# Neural Weather Maps
 Neural Weather Maps
 ## Header 2
-Western United States Precipitation Forecasts
+## Western United States Precipitation Forecasts
 ### Header 3
 
 
@@ -26,7 +27,8 @@ Western United States Precipitation Forecasts
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src='PcpnSOMpttn740W.png')
+[Link](url) and 
+![Image](src='PcpnSOMpttn740W.png')
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
