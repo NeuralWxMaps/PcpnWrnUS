@@ -21,27 +21,27 @@
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/100667886-57c9b280-3318-11eb-9e51-466412b3d863.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/100669071-12a68000-331a-11eb-8bdb-fc9573699996.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/100667829-408ac500-3318-11eb-9a11-c44a49e9d671.png"></td>
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/100667889-57c9b280-3318-11eb-9707-498601472dae.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/100669112-22be5f80-331a-11eb-8279-874f6a58ff99.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/100667832-41235b80-3318-11eb-8aee-2e6f53e151e9.png"></td>
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/100667891-58624900-3318-11eb-8a55-6b5a5c89c778.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/100669128-2d78f480-331a-11eb-9d32-154b3d71a969.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/100667833-41235b80-3318-11eb-8f30-6841f3e83779.png"></td>
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/100667893-58624900-3318-11eb-8355-6f88ede13ce2.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/100669128-2d78f480-331a-11eb-9d32-154b3d71a969.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/100667834-41235b80-3318-11eb-94e7-85d1de99ba85.png"></td>
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/100667894-58624900-3318-11eb-930c-01f7f8ee2258.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/100669158-3964b680-331a-11eb-9201-8275bac17654.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/100667836-41235b80-3318-11eb-83bd-cb1fafdacf31.png"></td>
     </tr>
     <tr>
@@ -78,32 +78,31 @@
   <hr>
 
 
-
 <table border="1" cellpadding="1" cellspacing="1">
-  <tr>Sixteen different pattern members in this model run.</tr>
+  <tr>Thirteen pattern members from the Western U.S. Precipitation neural network.</tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100643845-d06c4700-32f7-11eb-8dc4-07ac7057631f.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100643848-d104dd80-32f7-11eb-9212-ee356eae8fe6.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100643850-d104dd80-32f7-11eb-9feb-bbf30e327c9f.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100643851-d19d7400-32f7-11eb-84bc-85062bd75888.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/100669200-484b6900-331a-11eb-917b-d590cdda6a59.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/100669239-57321b80-331a-11eb-9bb8-a92b4736b9b8.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/100669268-5f8a5680-331a-11eb-9f69-67432c02f637.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/100669293-67e29180-331a-11eb-9af2-441f1915e477.png"></td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100644786-ff36ed00-32f8-11eb-9ea1-b80f1f42556e.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100644787-ffcf8380-32f8-11eb-8cf2-798e0672c120.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100644788-ffcf8380-32f8-11eb-9e24-4e0dd1a9df52.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100644789-ffcf8380-32f8-11eb-8bf9-e4f334ad7bf2.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/100669317-70d36300-331a-11eb-9282-23abb5982855.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/100669339-792b9e00-331a-11eb-99a2-f106e43d38dd.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/100669364-8052ac00-331a-11eb-8d76-4a405ac6a30d.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/100669391-8a74aa80-331a-11eb-91f3-5170c67ce2ee.png"></td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/75145898/100669415-96606c80-331a-11eb-9c52-df07b4ed1d7e.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/100669429-9e201100-331a-11eb-9fd1-43f9f5e76080.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/100669455-a6784c00-331a-11eb-91ae-9d39cb1e779b.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/100669474-ad9f5a00-331a-11eb-94de-7069debcf45c.png"></td>
   </tr>
   <tr>
     <td><img src=""></td>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100644792-ffcf8380-32f8-11eb-8e2a-f7cc4deb6934.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100644793-00681a00-32f9-11eb-8363-f9e07047368c.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100644794-00681a00-32f9-11eb-8497-a72f8c4f486b.png"></td>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100644786-ff36ed00-32f8-11eb-9ea1-b80f1f42556e.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100644787-ffcf8380-32f8-11eb-8cf2-798e0672c120.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100644788-ffcf8380-32f8-11eb-9e24-4e0dd1a9df52.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100644789-ffcf8380-32f8-11eb-8bf9-e4f334ad7bf2.png"></td>
+    <td><img src=""></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/100669499-b728c200-331a-11eb-984c-e47151187e84.png"></td>
+    <td><img src=""></td>
   </tr>
 </table>
     
