@@ -45,9 +45,11 @@
 
 
 <table border="1" cellpadding="1" cellspacing="1">
+  <tr>A sample of different pattern members, trying to stretch the page laterally.</tr>
   <tr>
-    <td><img src=""></td>
-    <td><img src=""></td>
-    <td><img src=""></td>
-    <td><img src=""></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/100643845-d06c4700-32f7-11eb-8dc4-07ac7057631f.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/100643848-d104dd80-32f7-11eb-9212-ee356eae8fe6.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/100643850-d104dd80-32f7-11eb-9feb-bbf30e327c9f.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/100643851-d19d7400-32f7-11eb-84bc-85062bd75888.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/100643852-d19d7400-32f7-11eb-9989-c965c6ddb786.png"></td>
   </tr>
