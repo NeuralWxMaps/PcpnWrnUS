@@ -14,7 +14,7 @@
       <th>Individual Member of Dominant Node</th>
   </tr>
     <tr>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/100639818-e6c3d400-32f2-11eb-8209-8fd323d93b70.png"></td>
       <td><img src=""></td>
       <td><img src=""></td>
     </tr>
