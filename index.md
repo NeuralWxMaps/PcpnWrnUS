@@ -48,41 +48,30 @@
 
 
 <table border="1" cellpadding="1" cellspacing="1">
-  <tr>A sample of different pattern members, trying to stretch the page laterally.</tr>
+  <tr>Sixteen different pattern members in this model run.</tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/75145898/100643845-d06c4700-32f7-11eb-8dc4-07ac7057631f.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75145898/100643848-d104dd80-32f7-11eb-9212-ee356eae8fe6.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75145898/100643850-d104dd80-32f7-11eb-9feb-bbf30e327c9f.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75145898/100643851-d19d7400-32f7-11eb-84bc-85062bd75888.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100643852-d19d7400-32f7-11eb-9989-c965c6ddb786.png"></td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/75145898/100644786-ff36ed00-32f8-11eb-9ea1-b80f1f42556e.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75145898/100644787-ffcf8380-32f8-11eb-8cf2-798e0672c120.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75145898/100644788-ffcf8380-32f8-11eb-9e24-4e0dd1a9df52.png"></td>
-    <td><img src=""></td>
     <td><img src="https://user-images.githubusercontent.com/75145898/100644789-ffcf8380-32f8-11eb-8bf9-e4f334ad7bf2.png"></td>
   </tr>
   <tr>
     <td><img src=""></td>
     <td><img src="https://user-images.githubusercontent.com/75145898/100644792-ffcf8380-32f8-11eb-8e2a-f7cc4deb6934.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75145898/100644793-00681a00-32f9-11eb-8363-f9e07047368c.png"></td>
-    <td><img src=""></td>
     <td><img src="https://user-images.githubusercontent.com/75145898/100644794-00681a00-32f9-11eb-8497-a72f8c4f486b.png"></td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/75145898/100644786-ff36ed00-32f8-11eb-9ea1-b80f1f42556e.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75145898/100644787-ffcf8380-32f8-11eb-8cf2-798e0672c120.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75145898/100644788-ffcf8380-32f8-11eb-9e24-4e0dd1a9df52.png"></td>
-    <td><img src=""></td>
     <td><img src="https://user-images.githubusercontent.com/75145898/100644789-ffcf8380-32f8-11eb-8bf9-e4f334ad7bf2.png"></td>
-  </tr>
-  <tr>
-    <td><img src=""></td>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100644792-ffcf8380-32f8-11eb-8e2a-f7cc4deb6934.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100644793-00681a00-32f9-11eb-8363-f9e07047368c.png"></td>
-    <td><img src=""></td>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100644794-00681a00-32f9-11eb-8497-a72f8c4f486b.png"></td>
   </tr>
 </table>
     
