@@ -6,11 +6,43 @@
   <body>
     <h2><center>Western United States Precipitation Forecasts
   <hr>
+      
+      
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Phase-Space Plot</th>
       <th>Dominant Node</th>
       <th>Individual Member of Dominant Node</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>Model Run Time:</th>
+      <th>11/27/20 12z</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/100667886-57c9b280-3318-11eb-9e51-466412b3d863.png"></td>
+      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/100667829-408ac500-3318-11eb-9a11-c44a49e9d671.png"></td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/100667889-57c9b280-3318-11eb-9707-498601472dae.png"></td>
+      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/100667832-41235b80-3318-11eb-8aee-2e6f53e151e9.png"></td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/100667891-58624900-3318-11eb-8a55-6b5a5c89c778.png"></td>
+      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/100667833-41235b80-3318-11eb-8f30-6841f3e83779.png"></td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/100667893-58624900-3318-11eb-8355-6f88ede13ce2.png"></td>
+      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/100667834-41235b80-3318-11eb-94e7-85d1de99ba85.png"></td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/100667894-58624900-3318-11eb-930c-01f7f8ee2258.png"></td>
+      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/100667836-41235b80-3318-11eb-83bd-cb1fafdacf31.png"></td>
     </tr>
     <tr>
       <th></th>
