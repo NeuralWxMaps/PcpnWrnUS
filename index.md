@@ -5,11 +5,11 @@
   </head>
   <body>
     <h2><center>Neural Weather Maps
-      <h1><center>Western United States Precipitation Forecasts</h1>
+      <h1><center>Western United States Precipitation Forecasts
 
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Phase-Space Plot</th>
+      <th><h3>Phase-Space Plot</th>
       <th>Dominant Node</th>
       <th>Individual Member of Dominant Node</th>
   </tr>
