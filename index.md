@@ -4,9 +4,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
   <body>
-    <h2><center>Neural Weather Maps
-      <h1><center>Western United States Precipitation Forecasts
-
+    <h2><center>Western United States Precipitation Forecasts
+  <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Phase-Space Plot</th>
@@ -14,7 +13,8 @@
       <th>Individual Member of Dominant Node</th>
     </tr>
     <tr>
-      <th>Model Run Time: 11/27/20 00z</th>
+      <th>Model Run Time:</th>
+      <th>11/27/20 00z</th>
   </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/100639818-e6c3d400-32f2-11eb-8209-8fd323d93b70.png"></td>
