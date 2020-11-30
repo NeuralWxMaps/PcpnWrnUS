@@ -5,7 +5,7 @@
   </head>
   <body>
     <h2><center>Neural Weather Maps
-      <h1><center>Western United States Precipitation Forecasts
+      <h1><center>Western United States Precipitation Forecasts</h1>
 
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
