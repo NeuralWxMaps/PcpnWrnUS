@@ -18,6 +18,41 @@
     <tr>
       <th></th>
       <th>Model Run Time:</th>
+      <th>12/3/20 12z</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101187203-4ed72a80-3611-11eb-9f21-af9423b43838.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101187284-66161800-3611-11eb-9318-a7e73d01cdb5.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101187523-b55c4880-3611-11eb-95a9-675c39ba5c01.png"></td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101187205-4f6fc100-3611-11eb-890a-62d6309bc5db.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101187308-6f06e980-3611-11eb-8d6c-b35f8273cfa6.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101187525-b5f4df00-3611-11eb-8617-6a673e02f261.png"></td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101187206-4f6fc100-3611-11eb-9414-7cd55d9f6a4c.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101187356-7cbc6f00-3611-11eb-80b4-9993f35accc8.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101187526-b5f4df00-3611-11eb-81d5-c96cac48c8b4.png"></td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101187207-4f6fc100-3611-11eb-93ad-13255e92eb48.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101187386-88a83100-3611-11eb-8e8e-429a9fbb1fdc.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101187529-b68d7580-3611-11eb-90e0-bd73b38d2172.png"></td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101187211-50085780-3611-11eb-9967-bd6f1ff0e8a4.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101187426-98277a00-3611-11eb-90a6-db78b1a58657.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101187530-b68d7580-3611-11eb-8b77-acf98cd3ba02.png"></td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101187214-50085780-3611-11eb-8c8c-1dfa4d9f6df8.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101187453-a37aa580-3611-11eb-86bc-0c1aeb17db07.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101187531-b68d7580-3611-11eb-9c98-0499d18e6519.png"></td>
+    </tr>
+    <tr>
+      <th></th>
+      <th>Model Run Time:</th>
       <th>12/3/20 00z</th>
     </tr>
     <tr>
