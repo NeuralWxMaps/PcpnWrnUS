@@ -170,30 +170,30 @@
 
 
 <table border="1" cellpadding="1" cellspacing="1">
-  <tr>Thirteen pattern members from the Western U.S. Precipitation neural network.</tr>
+  <tr>Nine patterns from the Western U.S. Precipitation neural network that have appeared in the past 5 days.</tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100669200-484b6900-331a-11eb-917b-d590cdda6a59.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100669239-57321b80-331a-11eb-9bb8-a92b4736b9b8.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100669268-5f8a5680-331a-11eb-9f69-67432c02f637.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100669293-67e29180-331a-11eb-9af2-441f1915e477.png"></td>
+    <td><img src=""></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/100924021-4a8a0080-349d-11eb-85b6-4ee0669b2fd3.png"></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100669317-70d36300-331a-11eb-9282-23abb5982855.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100669339-792b9e00-331a-11eb-99a2-f106e43d38dd.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100669364-8052ac00-331a-11eb-8d76-4a405ac6a30d.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100669391-8a74aa80-331a-11eb-91f3-5170c67ce2ee.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/101054446-233b3e00-3546-11eb-9c95-9d3bc7c2688a.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/100791298-4ba42a80-33d6-11eb-99a0-34df6bbbced9.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/101120635-5bc13300-35ab-11eb-8a46-1d8968f7107c.png"></td>
+    <td><img src=""></td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100669415-96606c80-331a-11eb-9c52-df07b4ed1d7e.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100669429-9e201100-331a-11eb-9fd1-43f9f5e76080.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100669455-a6784c00-331a-11eb-91ae-9d39cb1e779b.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100669474-ad9f5a00-331a-11eb-94de-7069debcf45c.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/101054589-4665ed80-3546-11eb-8a9a-7ce8201cd115.png"></td>
+    <td><img src=""></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/101054544-3c43ef00-3546-11eb-996d-9c477262822a.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/101120635-5bc13300-35ab-11eb-8a46-1d8968f7107c.png"></td>
   </tr>
   <tr>
     <td><img src=""></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/101120635-5bc13300-35ab-11eb-8a46-1d8968f7107c.png"></td>
     <td><img src=""></td>
-    <td><img src="https://user-images.githubusercontent.com/75145898/100669499-b728c200-331a-11eb-984c-e47151187e84.png"></td>
-    <td><img src=""></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/101120649-68de2200-35ab-11eb-81f9-6f9b19bbf661.png"></td>
   </tr>
 </table>
     
