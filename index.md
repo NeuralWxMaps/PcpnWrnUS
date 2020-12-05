@@ -22,7 +22,7 @@
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/101234144-4535dd00-367a-11eb-873a-30ae7c1effe3.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101234168-5e3e8e00-367a-11eb-9882-384118bee681.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101234469-c1312480-367c-11eb-89c9-aa19a4833da5.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101234226-b2497280-367a-11eb-84c9-a3fbdf7a0191.png"></td>
     </tr>
     <tr>
