@@ -82,17 +82,26 @@
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/101524329-038d8680-3947-11eb-95e5-2df36dd5b091.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101524282-fc667880-3946-11eb-865a-f6289af352a3.png"></td>
-    </tr>
-    <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/101524294-fd97a580-3946-11eb-9c20-77abcd04e0e4.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101524320-025c5980-3947-11eb-8247-6b495495e583.png"></td>
     </tr>
+  </table>
+  <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101524282-fc667880-3946-11eb-865a-f6289af352a3.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101524320-025c5980-3947-11eb-8247-6b495495e583.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101524309-00929600-3947-11eb-8622-3e8559e359d8.png"></td>
     </tr>
+  </table>
+  <table border="1" cellpadding="1" cellspacing="1">
     <tr>
+      <td>Members 3, 4, 14, 18 and 29</td>
+      <td>Members 6, 9, 13, 22 and 27</td>
+      <td>Members 0, 2, 5, 17 and 24</td>
+    </tr>
+  </table>
+  
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr> 
       <td><img src="https://user-images.githubusercontent.com/75145898/101524295-fe303c00-3946-11eb-8048-0b323991f880.png"></td>
       <td><img src=""></td>
     </tr>
