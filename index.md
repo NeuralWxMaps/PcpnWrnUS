@@ -35,32 +35,26 @@
     </tr>
   </table>
 
-<table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101524287-fcff0f00-3946-11eb-9b0a-bf1fcdba6e3b.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101524311-012b2c80-3947-11eb-8ac0-e5edbe9cf6a5.png"></td>
-      <td>4, 7, 11, 12, 27 and 29</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101524305-ff616900-3946-11eb-9d7b-c8a30830aec5.png"></td>
-      <td>1, 5, 6, 9, 15, 16, 21, 22, 23, 28, 30</td>
-    </tr>
+  <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/101524325-02f4f000-3947-11eb-86f7-fe6eee2f0751.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101524279-fbcde200-3946-11eb-8428-0c3c9b123fb8.png"></td>
-      <td>0, 2, 3, 4, 5, 6, 7, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 26, 27 and 30</td>
-    </tr>
-    <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/101524289-fd97a580-3946-11eb-9696-c0b34db80899.png"></td>
+    </tr>
+  </table>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>  
+      <td><img src="https://user-images.githubusercontent.com/75145898/101524279-fbcde200-3946-11eb-8428-0c3c9b123fb8.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101524313-012b2c80-3947-11eb-8c68-f31bedadae5f.png"></td>
-      <td>1, 8, 9, 10, 12, 22 and 28</td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101524306-ff616900-3946-11eb-887f-78cd6ee8acc8.png"></td>
     </tr>
     <tr>
-      <td><img src=""></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101524306-ff616900-3946-11eb-887f-78cd6ee8acc8.png"></td>
-      <td>11 and 29</td>
+      <td>Members 0, 2, 3, 4, 5, 6, 7, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 26, 27 and 30</td>
+      <td>Members 1, 8, 9, 10, 12, 22 and 28</td>
+      <td>Members 11 and 29</td>
     </tr>
+  </table>
+
+  <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/101524328-02f4f000-3947-11eb-8d9a-36fbd80e54e0.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101524281-fc667880-3946-11eb-9bc0-0430dc2dd8ab.png"></td>
