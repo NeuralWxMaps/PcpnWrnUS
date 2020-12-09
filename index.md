@@ -7,7 +7,7 @@
     <center>Western United States Precipitation Forecasts
   <hr>
       
-      
+    
 
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -74,15 +74,15 @@
     </tr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101688887-e67db400-3a29-11eb-9675-f6a1d341fbe1.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101688905-eaa9d180-3a29-11eb-9ede-a40d9ea5e0ca.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101688925-f09fb280-3a29-11eb-97a1-372ebd4da944.png"></td>
     </tr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <td>Members </td>
-      <td>Members </td>
-      <td>Members </td>
+      <td>Members 3, 4, 7, 10, 11, 14, 17, 24 and 30</td>
+      <td>Members 2, 5, 12, 21-23, 27 and 28</td>
+      <td>Members 6, 15 and 19</td>
     </tr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
