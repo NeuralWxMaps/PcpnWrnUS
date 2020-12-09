@@ -7,6 +7,11 @@
     <h2><center>Western United States Precipitation Forecasts
   <hr>
       
+![SOM102hrs](https://user-images.githubusercontent.com/75145898/101656645-2c258700-3a00-11eb-8920-dada6eb698fe.png)
+![EnsembleMean102hrs](https://user-images.githubusercontent.com/75145898/101656726-465f6500-3a00-11eb-8b4a-e547474314fb.png)
+![Blues102hrs](https://user-images.githubusercontent.com/75145898/101656763-4fe8cd00-3a00-11eb-84cb-9bde8c2bb30e.png)
+![Reds102hrs](https://user-images.githubusercontent.com/75145898/101656789-570fdb00-3a00-11eb-9ce1-808308ba4fdd.png)
+![Greens102hrs](https://user-images.githubusercontent.com/75145898/101656813-5e36e900-3a00-11eb-89e3-179cf9c877db.png)
 
 
   <table border="1" cellpadding="1" cellspacing="1">
@@ -22,7 +27,6 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/101647129-9be24480-39f5-11eb-98bb-9606bb7e66cb.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101647158-a3095280-39f5-11eb-8216-4ca77d583852.png"></td>
     </tr>
-  </table>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>  
       <td><img src="https://user-images.githubusercontent.com/75145898/101647189-aa306080-39f5-11eb-8e8b-c76923e4c424.png"></td>
@@ -49,7 +53,6 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/101649549-40fe1c80-39f8-11eb-9dba-ea802d2829e8.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101649579-48bdc100-39f8-11eb-9165-58f398c3f7cb.png"></td>
     </tr>
-  </table>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>  
       <td><img src="https://user-images.githubusercontent.com/75145898/101649602-4fe4cf00-39f8-11eb-84fa-3d0b7ade456e.png"></td>
@@ -63,8 +66,33 @@
       <td>Members 13, 23, 25 and 27</td>
     </tr>
 
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/8/20 12z</th>
+      <th></th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101656645-2c258700-3a00-11eb-8920-dada6eb698fe.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101656726-465f6500-3a00-11eb-8b4a-e547474314fb.png"></td>
+    </tr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>  
+      <td><img src="https://user-images.githubusercontent.com/75145898/101656763-4fe8cd00-3a00-11eb-84cb-9bde8c2bb30e.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101656789-570fdb00-3a00-11eb-9ce1-808308ba4fdd.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101656813-5e36e900-3a00-11eb-89e3-179cf9c877db.png"></td>
+    </tr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <td>Members 2, 4, 7, 10, 12, 16, 18, 21, 22, 24-26, 29 and 30</td>
+      <td>Members 6, 19 and 20</td>
+      <td>Members 13 and 27</td>
+    </tr>
 
-<hr>
+
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
