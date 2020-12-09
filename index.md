@@ -58,9 +58,9 @@
     </tr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <td>Members 2-4, 16, 18, 21-27 and 30</td>
-      <td>Members 1, 8-10, 12 and 28</td>
-      <td>Member 29</td>
+      <td>Members 1, 2, 14, 16-18, 20, 21 and 28</td>
+      <td>Members 4, 5, 12, 22 and 24</td>
+      <td>Members 13, 23, 25 and 27</td>
     </tr>
 
 
