@@ -8,7 +8,37 @@
   <hr>
       
 
+
   <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/8/20 12z</th>
+      <th></th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101647129-9be24480-39f5-11eb-98bb-9606bb7e66cb.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101647158-a3095280-39f5-11eb-8216-4ca77d583852.png"></td>
+    </tr>
+  </table>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>  
+      <td><img src="https://user-images.githubusercontent.com/75145898/101647189-aa306080-39f5-11eb-8e8b-c76923e4c424.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101647218-b3213200-39f5-11eb-80a4-c861d94bea25.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101647243-b9171300-39f5-11eb-86d3-2ef31fdff663.png"></td>
+    </tr>
+  </table>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <td>Members 2-4, 16, 18, 21-27 and 30</td>
+      <td>Members 1, 8-10, 12 and 28</td>
+      <td>Member 29</td>
+    </tr>
+  </table>
+
+<table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
       <th>12/8/20 00z</th>
