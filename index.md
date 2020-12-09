@@ -34,7 +34,8 @@
       <td>Members 1, 8-10, 12 and 28</td>
       <td>Member 29</td>
     </tr>
-  
+  <hr>
+    
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
@@ -60,6 +61,7 @@
       <td>Members 4, 5, 12, 22 and 24</td>
       <td>Members 13, 23, 25 and 27</td>
     </tr>
+  <hr>
 
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -86,7 +88,34 @@
       <td>Members 6, 19 and 20</td>
       <td>Members 13 and 27</td>
     </tr>
-
+  <hr>
+    
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/8/20 12z</th>
+      <th></th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101666951-fa1a2200-3a0b-11eb-94e5-0f0c45261925.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101666986-043c2080-3a0c-11eb-8946-d83b4a6a6a91.png"></td>
+    </tr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>  
+      <td><img src="https://user-images.githubusercontent.com/75145898/101667004-0c945b80-3a0c-11eb-93e9-0830dc30bd0f.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101667030-128a3c80-3a0c-11eb-8bbe-b44f98e4f5ac.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101667053-19b14a80-3a0c-11eb-9270-3a2ffecacbb1.png"></td>
+    </tr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <td>Members 1, 4, 5, 8, 9, 12, 21, 24, 25, 28 and 29</td>
+      <td>Members 2, 3, 18, 22, 26, 27 and 30</td>
+      <td>Members 6, 11, 16 and 19</td>
+    </tr>
+  <hr>
 
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -101,21 +130,19 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/101524323-025c5980-3947-11eb-9521-32b5008aacf0.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101524287-fcff0f00-3946-11eb-9b0a-bf1fcdba6e3b.png"></td>
     </tr>
-  </table>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>  
       <td><img src="https://user-images.githubusercontent.com/75145898/101524276-fbcde200-3946-11eb-8dab-5dd87be27df2.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101524311-012b2c80-3947-11eb-8ac0-e5edbe9cf6a5.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101524305-ff616900-3946-11eb-9d7b-c8a30830aec5.png"></td>
     </tr>
-  </table>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <td>Members 0, 3, 10, 14, 17-20, and 24-26</td>
       <td>Members 4, 7, 11, 12, 27 and 29</td>
       <td>Members 1, 5, 6, 9, 15, 16, 21-23, 28 and 30</td>
     </tr>
-  </table>
+  <hr>
 
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
