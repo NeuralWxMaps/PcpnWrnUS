@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
   <body>
-    <h2><center>Western United States Precipitation Forecasts
+    <center>Western United States Precipitation Forecasts
   <hr>
       
 
@@ -12,7 +12,7 @@
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
-      <th>12/8/20 12z</th>
+      <th>12/8/20 12z 48 Hrs</th>
       <th></th>
     <tr>
       <th>Phase-Space Plot</th>
@@ -34,12 +34,11 @@
       <td>Members 1, 8-10, 12 and 28</td>
       <td>Member 29</td>
     </tr>
-  <hr>
     
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
-      <th>12/8/20 12z</th>
+      <th>12/8/20 12z 96 Hrs</th>
       <th></th>
     <tr>
       <th>Phase-Space Plot</th>
@@ -61,12 +60,11 @@
       <td>Members 4, 5, 12, 22 and 24</td>
       <td>Members 13, 23, 25 and 27</td>
     </tr>
-  <hr>
 
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
-      <th>12/8/20 12z</th>
+      <th>12/8/20 12z 102 Hrs</th>
       <th></th>
     <tr>
       <th>Phase-Space Plot</th>
@@ -88,12 +86,11 @@
       <td>Members 6, 19 and 20</td>
       <td>Members 13 and 27</td>
     </tr>
-  <hr>
     
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
-      <th>12/8/20 12z</th>
+      <th>12/8/20 12z 108 Hrs</th>
       <th></th>
     <tr>
       <th>Phase-Space Plot</th>
@@ -115,7 +112,6 @@
       <td>Members 2, 3, 18, 22, 26, 27 and 30</td>
       <td>Members 6, 11, 16 and 19</td>
     </tr>
-  <hr>
 
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
