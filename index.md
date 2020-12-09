@@ -19,7 +19,7 @@
       <th>Ensemble Mean</th>
     </tr>
     <tr>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101684684-09a56500-3a24-11eb-9f94-64c4057519f4.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101682680-2e4c0d80-3a21-11eb-8d74-c8e5bee07c45.png"></td>
     </tr>
   <table border="1" cellpadding="1" cellspacing="1">
@@ -44,7 +44,7 @@
       <th>Ensemble Mean</th>
     </tr>
     <tr>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101684686-0a3dfb80-3a24-11eb-8581-d3690a2d78e4.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101682682-2ee4a400-3a21-11eb-9de8-8e3332798a57.png"></td>
     </tr>
   <table border="1" cellpadding="1" cellspacing="1">
@@ -69,7 +69,7 @@
       <th>Ensemble Mean</th>
     </tr>
     <tr>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101684688-0a3dfb80-3a24-11eb-8d7d-05ba3874e346.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101682684-2ee4a400-3a21-11eb-8fea-cf7c2e8e39f0.png"></td>
     </tr>
   <table border="1" cellpadding="1" cellspacing="1">
@@ -94,7 +94,7 @@
       <th>Ensemble Mean</th>
     </tr>
     <tr>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101684689-0a3dfb80-3a24-11eb-8f61-990d3ecea542.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101682686-2ee4a400-3a21-11eb-820f-d7bc5a35f279.png"></td>
     </tr>
   <table border="1" cellpadding="1" cellspacing="1">
@@ -119,7 +119,7 @@
       <th>Ensemble Mean</th>
     </tr>
     <tr>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101684690-0ad69200-3a24-11eb-8a78-dcd75a6457c9.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101682688-2ee4a400-3a21-11eb-9ef3-f46855567cbd.png"></td>
     </tr>
   <table border="1" cellpadding="1" cellspacing="1">
@@ -144,7 +144,7 @@
       <th>Ensemble Mean</th>
     </tr>
     <tr>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101684693-0ad69200-3a24-11eb-8414-1533e166b404.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101682689-2ee4a400-3a21-11eb-8c38-2fb20ecb0fd1.png"></td>
     </tr>
   <table border="1" cellpadding="1" cellspacing="1">
@@ -169,7 +169,7 @@
       <th>Ensemble Mean</th>
     </tr>
     <tr>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101684696-0b6f2880-3a24-11eb-8565-fc0032beb15d.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101682690-2f7d3a80-3a21-11eb-98a3-f08a007848bc.png"></td>
     </tr>
   <table border="1" cellpadding="1" cellspacing="1">
@@ -194,7 +194,7 @@
       <th>Ensemble Mean</th>
     </tr>
     <tr>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101684697-0b6f2880-3a24-11eb-8ac4-931540ccda1f.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101682692-2f7d3a80-3a21-11eb-90a3-d0b1a03ea8a2.png"></td>
     </tr>
   <table border="1" cellpadding="1" cellspacing="1">
