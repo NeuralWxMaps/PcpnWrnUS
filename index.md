@@ -7,7 +7,208 @@
     <center>Western United States Precipitation Forecasts
   <hr>
       
+      
 
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/9/20 00z 36 Hrs</th>
+      <th></th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <td>Members </td>
+      <td>Members </td>
+      <td>Members </td>
+    </tr>
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/9/20 00z 36 Hrs</th>
+      <th></th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <td>Members </td>
+      <td>Members </td>
+      <td>Members </td>
+    </tr>
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/9/20 00z 36 Hrs</th>
+      <th></th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <td>Members </td>
+      <td>Members </td>
+      <td>Members </td>
+    </tr>
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/9/20 00z 36 Hrs</th>
+      <th></th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <td>Members </td>
+      <td>Members </td>
+      <td>Members </td>
+    </tr>
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/9/20 00z 36 Hrs</th>
+      <th></th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <td>Members </td>
+      <td>Members </td>
+      <td>Members </td>
+    </tr>
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/9/20 00z 36 Hrs</th>
+      <th></th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <td>Members </td>
+      <td>Members </td>
+      <td>Members </td>
+    </tr>
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/9/20 00z 36 Hrs</th>
+      <th></th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <td>Members </td>
+      <td>Members </td>
+      <td>Members </td>
+    </tr>
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/9/20 00z 36 Hrs</th>
+      <th></th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <td>Members </td>
+      <td>Members </td>
+      <td>Members </td>
+    </tr>
 
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -263,41 +464,6 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/101446490-ad85f800-38e0-11eb-8b04-1cb091fc12a5.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101446804-356c0200-38e1-11eb-9a08-148e88ade716.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101446847-49afff00-38e1-11eb-8db5-48f0acfe9d18.png"></td>
-    </tr>
-    <tr>
-      <th></th>
-      <th>Model Run Time:</th>
-      <th>12/7/20 00z</th>
-    </tr>
-    <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101389105-299b2400-387e-11eb-8fd1-8a058f4debe3.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101389175-46375c00-387e-11eb-8950-2153bfe47c97.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101389372-91516f00-387e-11eb-8502-372601923e3f.png"></td>
-    </tr>
-    <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101389106-2a33ba80-387e-11eb-996a-7f791f25a884.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101389215-52bbb480-387e-11eb-80c9-6e4464066629.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101389375-91ea0580-387e-11eb-9c40-6aebe37a4303.png"></td>
-    </tr>
-    <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101389107-2a33ba80-387e-11eb-8b95-6ef907158d2a.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101389234-5bac8600-387e-11eb-83a5-cbe5c60fdae8.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101389376-91ea0580-387e-11eb-8daa-fe27d32aa27e.png"></td>
-    </tr>
-    <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101389108-2acc5100-387e-11eb-87ca-21f11c5db0aa.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101389267-6830de80-387e-11eb-982a-aaa7616b978d.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101389377-92829c00-387e-11eb-8202-1b5a59110600.png"></td>
-    </tr>
-    <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101389109-2acc5100-387e-11eb-87fd-9882b20e51e2.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101389299-73840a00-387e-11eb-9edf-a6f822f3efee.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101389378-92829c00-387e-11eb-8349-d9b43344a22d.png"></td>
-    </tr>
-    <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101389110-2acc5100-387e-11eb-9ff3-b77f7913c332.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101389327-81398f80-387e-11eb-8878-e78b5df97dc2.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101389379-92829c00-387e-11eb-9490-76da1cf42180.png"></td>
     </tr>
   </table>
   <hr>
