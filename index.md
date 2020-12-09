@@ -7,11 +7,6 @@
     <h2><center>Western United States Precipitation Forecasts
   <hr>
       
-![SOM102hrs](https://user-images.githubusercontent.com/75145898/101656645-2c258700-3a00-11eb-8920-dada6eb698fe.png)
-![EnsembleMean102hrs](https://user-images.githubusercontent.com/75145898/101656726-465f6500-3a00-11eb-8b4a-e547474314fb.png)
-![Blues102hrs](https://user-images.githubusercontent.com/75145898/101656763-4fe8cd00-3a00-11eb-84cb-9bde8c2bb30e.png)
-![Reds102hrs](https://user-images.githubusercontent.com/75145898/101656789-570fdb00-3a00-11eb-9ce1-808308ba4fdd.png)
-![Greens102hrs](https://user-images.githubusercontent.com/75145898/101656813-5e36e900-3a00-11eb-89e3-179cf9c877db.png)
 
 
   <table border="1" cellpadding="1" cellspacing="1">
