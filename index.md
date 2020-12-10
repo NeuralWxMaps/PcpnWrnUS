@@ -34,7 +34,7 @@
       <td>Members 1, 5, 17, 28 and 30</td>
       <td>Members 13, 18, 21, 23 and 29</td>
     </tr>
-<p>At 36 hours the ensemble members have split into two distinct clusters. The red and green clusters are a further split of the secondary cluster.  Forecast rainfall amounts in the red cluster are lower than in the blue and green clusters. </p>
+<p>At 36 hours, the ensemble members have split into two distinct clusters. The red and green clusters are a further split of the secondary cluster.  Forecast rainfall amounts in the red cluster are lower than in the blue and green clusters. </p>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
@@ -138,6 +138,7 @@
       <td>Members 12, 15, 16 and 19</td>
       <td>Members 7, 18, 23 and 29</td>
     </tr>
+<p>At 102 hours, the red cluster is dry over the Rocky Mountain Region from Montana down through New Mexico, while the blue cluster shows at least light precipitation from the northern Montana border down through southern Utah and southern Colorado. The green cluster is dry over the Rocky Mountains except for some light precipitation over southern Wyoming, northern Utah and northern Colorado. </p>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
@@ -163,6 +164,7 @@
       <td>Members 4, 15, 20 and 26</td>
       <td>Members 22 and 30</td>
     </tr>
+<p>In this collection of ensemble clusters, note that the green cluster has a bullseye of precipitation over east-central Nevada and a band of precipitation from north-central Colorado up through eastern Wyoming. Neither of these features is represented by the ensemble mean.  In north-central Colorado there are 4 contour lines, representing between four-tenths and one-half inch of liquid water equivalent precipitation. </p> 
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
@@ -188,6 +190,7 @@
       <td>Members 24, 25 and 29</td>
       <td>Members 3, 17 and 18</td>
     </tr>
+<p>By 114 hours into the forecast, the members of the ensemble are demonstrating quite a bit of dispersion among the Phase-Space plot.  However, a cluster of about 10 members is still evident over the left-central part of the plot.  These members are included in the blue cluster. </p>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
@@ -213,7 +216,8 @@
       <td>Members 5, 8, 11, 13, 29 and 30</td>
       <td>Members 3, 9, 21, 26 and 28</td>
     </tr>
-
+<p>A few tight clusters of ensemble members appear on the 120 hour Phase-Space plot, but it is difficult to glean very much signal from the spatial plots of these clusters.  Curiously, the blue cluster does not contain a concentrated area of precipiation over southeast Oregon/northwest Nevada the way the mean of all members and the red and green clusters do. </p>
+    
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
