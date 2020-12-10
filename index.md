@@ -7,7 +7,163 @@
     <center>Western United States Precipitation Forecasts
   <hr>
       
-    
+
+
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/9/20 12z 24 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101796958-bb956d80-3ac6-11eb-9836-865b0ddaa60d.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101796949-ba644080-3ac6-11eb-8db9-5eb6bcb838dd.png"></td>
+    </tr>
+Comment for 12/10/20 00z 96 hour forecast.
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/9/20 12z 66 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101796960-bb956d80-3ac6-11eb-90b6-eadb9425a40e.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101796952-bafcd700-3ac6-11eb-8407-c4dd3b99de9d.png"></td>
+    </tr>
+Comment for 12/9/20 12z 24 hour forecast.
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/9/20 12z 72 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101796962-bb956d80-3ac6-11eb-912f-5f2579d7962d.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101796953-bafcd700-3ac6-11eb-8cae-f0233911f039.png"></td>
+    </tr>
+Comment for 12/9/20 12z 66 hour forecast.
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/9/20 12z 96 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101796963-bc2e0400-3ac6-11eb-86e6-6cba01884837.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101796954-bafcd700-3ac6-11eb-8c56-f8145576e5d5.png"></td>
+    </tr>
+Comment for 12/9/20 12z 72 hour forecast.
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/9/20 12z 102 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101796964-bc2e0400-3ac6-11eb-96c9-dc90c9f535af.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101796955-bb956d80-3ac6-11eb-8a85-95bc8392a2dc.png"></td>
+    </tr>
+Comment for 12/9/20 12z 96 hour forecast.
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/9/20 12z 108 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101796965-bc2e0400-3ac6-11eb-8381-38a46e481bc1.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101796957-bb956d80-3ac6-11eb-91a3-cd686f644b6d.png"></td>
+    </tr>
+Comment for 12/9/20 12z 102 hour forecast.
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
 
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -21,6 +177,8 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/101684684-09a56500-3a24-11eb-9f94-64c4057519f4.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101682680-2e4c0d80-3a21-11eb-8d74-c8e5bee07c45.png"></td>
     </tr>
+Comment for 12/9/20 12z 108 hour forecast.
+<hr>  
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Members 2-4, 6, 8, 10-12, 14-16, 19, 20, 22 and 24-27</th>
