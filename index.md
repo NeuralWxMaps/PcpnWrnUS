@@ -7,7 +7,162 @@
     <center>Western United States Precipitation Forecasts
   <hr>
       
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/10/20 00z 12 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101826766-ae8b7500-3aec-11eb-8c5e-eefa697ad9ff.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101826757-ad5a4800-3aec-11eb-82b6-195bca268628.png"></td>
+    </tr>
+Given the large volume of data generated with each new forecast run, this page will only display forecasts where the ensemble mean plot shows a maximum value greater than 10 millimeters, which is four-tenths of an inch during the six hours of the forecast period.  Amounts less than that can be considered light precipitation events with little impact. 
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
 
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/10/20 00z 54 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101826767-ae8b7500-3aec-11eb-8592-c6f7532b9503.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101826760-adf2de80-3aec-11eb-8232-c054681f4aec.png"></td>
+    </tr>
+
+Comment for 12 hour forecast.
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/10/20 00z 60 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101826768-af240b80-3aec-11eb-90d2-981d0ec6e0f4.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101826761-adf2de80-3aec-11eb-8dea-fa5495d83e70.png"></td>
+    </tr>
+Comment for 54 hour forecast.
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/10/20 00z 72 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101826770-af240b80-3aec-11eb-8bdb-ddb589c88474.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101826762-adf2de80-3aec-11eb-8ab2-71f4f8b7203a.png"></td>
+    </tr>
+Comment for 60 hour forecast.
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/10/20 00z 78 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101826771-af240b80-3aec-11eb-881a-0a99d5e7fb4f.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101826763-ae8b7500-3aec-11eb-8f85-4a41f1816365.png"></td>
+    </tr>
+Comment for 72 hour forecast.
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/10/20 00z 84 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101826772-af240b80-3aec-11eb-9c1f-be22f22afaf8.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101826764-ae8b7500-3aec-11eb-8b79-88cf832515b3.png"></td>
+    </tr>
+Comment for 78 hour forecast.
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
 
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -21,7 +176,7 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/101796958-bb956d80-3ac6-11eb-9836-865b0ddaa60d.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101796949-ba644080-3ac6-11eb-8db9-5eb6bcb838dd.png"></td>
     </tr>
-Given the large volume of data generated with each new forecast run, this page will only display forecasts where the ensemble mean plot shows a maximum value greater than 10 millimeters, which is four-tenths of an inch during the six hours of the forecast period.  Amounts less than that can be considered light precipitation events with little impact. 
+Comment for 84 hour foecast.
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
