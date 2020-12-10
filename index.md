@@ -57,8 +57,6 @@ At 36 hours, the ensemble members have split into two distinct clusters. The red
       <td><img src="https://user-images.githubusercontent.com/75145898/101687399-aa495400-3a27-11eb-87e2-bab443748f93.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101687396-aa495400-3a27-11eb-94d9-6dc4bc3ed150.png"></td>
     </tr>
-At 84 hours, the area of rainfall in the green cluster is displaced westward from the blue and red clusters. The red cluster may also have one or two more contours than the blue cluster, meaning an additional one-tenth to two tenths of an inch of rain. 
-  <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
@@ -71,6 +69,8 @@ At 84 hours, the area of rainfall in the green cluster is displaced westward fro
       <td><img src="https://user-images.githubusercontent.com/75145898/101684688-0a3dfb80-3a24-11eb-8d7d-05ba3874e346.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101682684-2ee4a400-3a21-11eb-8fea-cf7c2e8e39f0.png"></td>
     </tr>
+At 84 hours, the area of rainfall in the green cluster is displaced westward from the blue and red clusters. The red cluster may also have one or two more contours than the blue cluster, meaning an additional one-tenth to two tenths of an inch of rain. 
+  <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Members 3, 4, 7, 10, 11, 14, 17, 24 and 30</th>
@@ -82,12 +82,10 @@ At 84 hours, the area of rainfall in the green cluster is displaced westward fro
       <td><img src="https://user-images.githubusercontent.com/75145898/101688905-eaa9d180-3a29-11eb-9ede-a40d9ea5e0ca.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101688925-f09fb280-3a29-11eb-97a1-372ebd4da944.png"></td>
     </tr>
-<p>At 90 hours, the green cluster once again has more precipitation over southwestern Oregon than the blue and red clusters.  The blue and red clusters appear similar to each other over northwestern Nevada, but the blue cluster shows one-tenth to two-tenths of an inch of rain over eastern Colorado that the red cluster does not show. </p> 
-<table border="1" cellpadding="1" cellspacing="1">
+  <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
       <th>12/9/20 00z 96 Hrs</th>
-      <th></th>
     <tr>
       <th>Phase-Space Plot</th>
       <th>Ensemble Mean</th>
@@ -96,6 +94,8 @@ At 84 hours, the area of rainfall in the green cluster is displaced westward fro
       <td><img src="https://user-images.githubusercontent.com/75145898/101684689-0a3dfb80-3a24-11eb-8f61-990d3ecea542.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101682686-2ee4a400-3a21-11eb-820f-d7bc5a35f279.png"></td>
     </tr>
+At 90 hours, the green cluster once again has more precipitation over southwestern Oregon than the blue and red clusters.  The blue and red clusters appear similar to each other over northwestern Nevada, but the blue cluster shows one-tenth to two-tenths of an inch of rain over eastern Colorado that the red cluster does not show. 
+  <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>  
       <td><img src="https://user-images.githubusercontent.com/75145898/101691189-90aa0b80-3a2b-11eb-8344-a1d9fe121692.png"></td>
@@ -108,12 +108,10 @@ At 84 hours, the area of rainfall in the green cluster is displaced westward fro
       <td>Members 11, 15, 17 and 21</td>
       <td>Members 5, 12, 19, 22, 28 and 30</td>
     </tr>
-<p>At 96 hours, the blue cluster shows heavier precipitation amounts over Washington and Oregon than the red and green clusters show. Each contour line represents one-tenth of an inch of liquid equivalent precipitation. </p>
-<table border="1" cellpadding="1" cellspacing="1">
+  <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
       <th>12/9/20 00z 102 Hrs</th>
-      <th></th>
     <tr>
       <th>Phase-Space Plot</th>
       <th>Ensemble Mean</th>
@@ -122,6 +120,8 @@ At 84 hours, the area of rainfall in the green cluster is displaced westward fro
       <td><img src="https://user-images.githubusercontent.com/75145898/101684690-0ad69200-3a24-11eb-8a78-dcd75a6457c9.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101682688-2ee4a400-3a21-11eb-9ef3-f46855567cbd.png"></td>
     </tr>
+At 96 hours, the blue cluster shows heavier precipitation amounts over Washington and Oregon than the red and green clusters show. Each contour line represents one-tenth of an inch of liquid equivalent precipitation. 
+  <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>  
       <td><img src="https://user-images.githubusercontent.com/75145898/101721742-e7343b80-3a65-11eb-812a-d28f648bc7f5.png"></td>
@@ -134,12 +134,10 @@ At 84 hours, the area of rainfall in the green cluster is displaced westward fro
       <td>Members 12, 15, 16 and 19</td>
       <td>Members 7, 18, 23 and 29</td>
     </tr>
-<p>At 102 hours, the red cluster is dry over the Rocky Mountain Region from Montana down through New Mexico while the blue cluster shows at least light precipitation from the northern Montana border down through southern Utah and southern Colorado. The green cluster is dry over the Rocky Mountains except for some light precipitation over southern Wyoming, northern Utah and northern Colorado. </p>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
       <th>12/9/20 00z 108 Hrs</th>
-      <th></th>
     <tr>
       <th>Phase-Space Plot</th>
       <th>Ensemble Mean</th>
@@ -148,6 +146,8 @@ At 84 hours, the area of rainfall in the green cluster is displaced westward fro
       <td><img src="https://user-images.githubusercontent.com/75145898/101684693-0ad69200-3a24-11eb-8414-1533e166b404.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101682689-2ee4a400-3a21-11eb-8c38-2fb20ecb0fd1.png"></td>
     </tr>
+At 102 hours, the red cluster is dry over the Rocky Mountain Region from Montana down through New Mexico while the blue cluster shows at least light precipitation from the northern Montana border down through southern Utah and southern Colorado. The green cluster is dry over the Rocky Mountains except for some light precipitation over southern Wyoming, northern Utah and northern Colorado. 
+  <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>  
       <td><img src="https://user-images.githubusercontent.com/75145898/101721743-e7ccd200-3a65-11eb-8f91-dfba41f128dc.png"></td>
@@ -160,12 +160,10 @@ At 84 hours, the area of rainfall in the green cluster is displaced westward fro
       <td>Members 4, 15, 20 and 26</td>
       <td>Members 22 and 30</td>
     </tr>
-<p>In this collection of ensemble clusters, note that the green cluster has a bullseye of precipitation over east-central Nevada and a band of precipitation from north-central Colorado up through eastern Wyoming. Neither of these features is represented by the ensemble mean.  In north-central Colorado there are 4 contour lines, representing between four-tenths and one-half inch of liquid water equivalent precipitation. </p> 
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
       <th>12/9/20 00z 114 Hrs</th>
-      <th></th>
     <tr>
       <th>Phase-Space Plot</th>
       <th>Ensemble Mean</th>
@@ -174,6 +172,8 @@ At 84 hours, the area of rainfall in the green cluster is displaced westward fro
       <td><img src="https://user-images.githubusercontent.com/75145898/101684696-0b6f2880-3a24-11eb-8565-fc0032beb15d.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101682690-2f7d3a80-3a21-11eb-98a3-f08a007848bc.png"></td>
     </tr>
+In this collection of ensemble clusters, note that the green cluster has a bullseye of precipitation over east-central Nevada and a band of precipitation from north-central Colorado up through eastern Wyoming. Neither of these features is represented by the ensemble mean.  In north-central Colorado there are 4 contour lines, representing between four-tenths and one-half inch of liquid water equivalent precipitation. 
+  <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>  
       <td><img src="https://user-images.githubusercontent.com/75145898/101721746-e7ccd200-3a65-11eb-871a-8e81d77f6b7f.png"></td>
@@ -186,12 +186,10 @@ At 84 hours, the area of rainfall in the green cluster is displaced westward fro
       <td>Members 24, 25 and 29</td>
       <td>Members 3, 17 and 18</td>
     </tr>
-<p>By 114 hours into the forecast, ensemble members are demonstrating quite a bit of dispersion around the Phase-Space plot.  However, a cluster of about 10 members is still evident over the left-central part of the plot.  These members are included in the blue cluster. </p>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
       <th>12/9/20 00z 120 Hrs</th>
-      <th></th>
     <tr>
       <th>Phase-Space Plot</th>
       <th>Ensemble Mean</th>
@@ -200,6 +198,8 @@ At 84 hours, the area of rainfall in the green cluster is displaced westward fro
       <td><img src="https://user-images.githubusercontent.com/75145898/101684697-0b6f2880-3a24-11eb-8ac4-931540ccda1f.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101682692-2f7d3a80-3a21-11eb-90a3-d0b1a03ea8a2.png"></td>
     </tr>
+By 114 hours into the forecast, ensemble members are demonstrating quite a bit of dispersion around the Phase-Space plot.  However, a cluster of about 10 members is still evident over the left-central part of the plot.  These members are included in the blue cluster. 
+  <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>  
       <td><img src="https://user-images.githubusercontent.com/75145898/101721748-e8656880-3a65-11eb-8c50-b997a7d4f938.png"></td>
@@ -212,7 +212,6 @@ At 84 hours, the area of rainfall in the green cluster is displaced westward fro
       <td>Members 5, 8, 11, 13, 29 and 30</td>
       <td>Members 3, 9, 21, 26 and 28</td>
     </tr>
-<p>A few tight clusters of ensemble members appear on the 120 hour Phase-Space plot, but it is difficult to glean very much signal from the spatial plots of these clusters.  Curiously, the blue cluster does not contain a concentrated area of precipitation over southeast Oregon/northwest Nevada the way the mean of all members and the red and green clusters do. </p>
     
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -227,6 +226,8 @@ At 84 hours, the area of rainfall in the green cluster is displaced westward fro
       <td><img src="https://user-images.githubusercontent.com/75145898/101647129-9be24480-39f5-11eb-98bb-9606bb7e66cb.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101647158-a3095280-39f5-11eb-8216-4ca77d583852.png"></td>
     </tr>
+A few tight clusters of ensemble members appear on the 120 hour Phase-Space plot, but it is difficult to glean very much signal from the spatial plots of these clusters.  Curiously, the blue cluster does not contain a concentrated area of precipitation over southeast Oregon/northwest Nevada the way the mean of all members and the red and green clusters do. 
+  <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>  
       <td><img src="https://user-images.githubusercontent.com/75145898/101647189-aa306080-39f5-11eb-8e8b-c76923e4c424.png"></td>
