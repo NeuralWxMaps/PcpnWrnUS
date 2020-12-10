@@ -34,6 +34,7 @@
       <td>Members 1, 5, 17, 28 and 30</td>
       <td>Members 13, 18, 21, 23 and 29</td>
     </tr>
+<hr>
 <p>At 36 hours, the ensemble members have split into two distinct clusters. The red and green clusters are a further split of the secondary cluster.  Forecast rainfall amounts in the red cluster are lower than in the blue and green clusters. </p>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
