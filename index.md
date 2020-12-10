@@ -13,7 +13,6 @@
     <tr>
       <th>Model RunTime:</th>
       <th>12/9/20 00z 36 Hrs</th>
-      <th></th>
     <tr>
       <th>Phase-Space Plot</th>
       <th>Ensemble Mean</th>
@@ -22,11 +21,11 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/101684684-09a56500-3a24-11eb-9f94-64c4057519f4.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101682680-2e4c0d80-3a21-11eb-8d74-c8e5bee07c45.png"></td>
     </tr>
-  <table border="1" cellpadding="1" cellspacing="1">
+<table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members 2-4, 6, 8, 10-12, 14-16, 19, 20, 22 and 24-27</td>
-      <th>Members 1, 5, 17, 28 and 30</td>
-      <th>Members 13, 18, 21, 23 and 29</td>
+      <th>Members 2-4, 6, 8, 10-12, 14-16, 19, 20, 22 and 24-27</th>
+      <th>Members 1, 5, 17, 28 and 30</th>
+      <th>Members 13, 18, 21, 23 and 29</th>
     </tr>
     <tr>  
       <td><img src="https://user-images.githubusercontent.com/75145898/101687355-9bfb3800-3a27-11eb-9644-f17b45dc30fc.png"></td>
@@ -39,7 +38,6 @@
     <tr>
       <th>Model RunTime:</th>
       <th>12/9/20 00z 84 Hrs</th>
-      <th></th>
     <tr>
       <th>Phase-Space Plot</th>
       <th>Ensemble Mean</th>
@@ -48,24 +46,22 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/101684686-0a3dfb80-3a24-11eb-8581-d3690a2d78e4.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101682682-2ee4a400-3a21-11eb-9de8-8e3332798a57.png"></td>
     </tr>
-  <table border="1" cellpadding="1" cellspacing="1">
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members 2, 5, 10, 12, 13, 17, 19-22, 24 and 27</th>
+      <th>Members 3, 7, 14, 18, 25, 26, 28 and 30</th>
+      <th>Members 6, 11, 15 and 23</th>
+    </tr>
     <tr>  
       <td><img src="https://user-images.githubusercontent.com/75145898/101687356-9c93ce80-3a27-11eb-9835-753ca28ef4af.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101687399-aa495400-3a27-11eb-87e2-bab443748f93.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101687396-aa495400-3a27-11eb-94d9-6dc4bc3ed150.png"></td>
-    </tr>
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <td>Members 2, 5, 10, 12, 13, 17, 19-22, 24 and 27</td>
-      <td>Members 3, 7, 14, 18, 25, 26, 28 and 30</td>
-      <td>Members 6, 11, 15 and 23</td>
     </tr>
 <p>At 84 hours, the area of rainfall in the green cluster is displaced westward from the blue and red clusters. The red cluster may also have one or two more contours than the blue cluster, meaning an additional one-tenth to two tenths of an inch of rain. </p>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
       <th>12/9/20 00z 90 Hrs</th>
-      <th></th>
     <tr>
       <th>Phase-Space Plot</th>
       <th>Ensemble Mean</th>
@@ -75,16 +71,15 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/101682684-2ee4a400-3a21-11eb-8fea-cf7c2e8e39f0.png"></td>
     </tr>
   <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members 3, 4, 7, 10, 11, 14, 17, 24 and 30</th>
+      <th>Members 2, 5, 12, 21-23, 27 and 28</th>
+      <th>Members 6, 15 and 19</th>
+    </tr>
     <tr>  
       <td><img src="https://user-images.githubusercontent.com/75145898/101688887-e67db400-3a29-11eb-9675-f6a1d341fbe1.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101688905-eaa9d180-3a29-11eb-9ede-a40d9ea5e0ca.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101688925-f09fb280-3a29-11eb-97a1-372ebd4da944.png"></td>
-    </tr>
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <td>Members 3, 4, 7, 10, 11, 14, 17, 24 and 30</td>
-      <td>Members 2, 5, 12, 21-23, 27 and 28</td>
-      <td>Members 6, 15 and 19</td>
     </tr>
 <p>At 90 hours, the green cluster once again has more precipitation over southwestern Oregon than the blue and red clusters.  The blue and red clusters appear similar to each other over northwestern Nevada, but the blue cluster shows one-tenth to two-tenths of an inch of rain over eastern Colorado that the red cluster does not show. </p> 
 <table border="1" cellpadding="1" cellspacing="1">
