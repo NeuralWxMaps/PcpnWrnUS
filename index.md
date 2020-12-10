@@ -32,7 +32,7 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/101687397-aa495400-3a27-11eb-91bd-df9efac14456.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101687394-a9b0bd80-3a27-11eb-9ae2-2ee032d0608a.png"></td>
     </tr>
-<p>At 36 hours, the ensemble members have split into two distinct clusters. The red and green clusters are a further split of the secondary cluster.  Forecast rainfall amounts in the red cluster are lower than in the blue and green clusters. </p>
+At 36 hours, the ensemble members have split into two distinct clusters. The red and green clusters are a further split of the secondary cluster.  Forecast rainfall amounts in the red cluster are lower than in the blue and green clusters. 
 
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
