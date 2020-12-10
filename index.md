@@ -21,8 +21,6 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/101684684-09a56500-3a24-11eb-9f94-64c4057519f4.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101682680-2e4c0d80-3a21-11eb-8d74-c8e5bee07c45.png"></td>
     </tr>
-Trying to figure out where this line will show up.
-  <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Members 2-4, 6, 8, 10-12, 14-16, 19, 20, 22 and 24-27</th>
@@ -34,8 +32,6 @@ Trying to figure out where this line will show up.
       <td><img src="https://user-images.githubusercontent.com/75145898/101687397-aa495400-3a27-11eb-91bd-df9efac14456.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101687394-a9b0bd80-3a27-11eb-9ae2-2ee032d0608a.png"></td>
     </tr>
-At 36 hours, the ensemble members have split into two distinct clusters. The red and green clusters are a further split of the secondary cluster.  Forecast rainfall amounts in the red cluster are lower than in the blue and green clusters. 
-  <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
@@ -48,6 +44,8 @@ At 36 hours, the ensemble members have split into two distinct clusters. The red
       <td><img src="https://user-images.githubusercontent.com/75145898/101684686-0a3dfb80-3a24-11eb-8581-d3690a2d78e4.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101682682-2ee4a400-3a21-11eb-9de8-8e3332798a57.png"></td>
     </tr>
+At 36 hours, the ensemble members have split into two distinct clusters. The red and green clusters are a further split of the secondary cluster.  Forecast rainfall amounts in the red cluster are lower than in the blue and green clusters. 
+  <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Members 2, 5, 10, 12, 13, 17, 19-22, 24 and 27</th>
