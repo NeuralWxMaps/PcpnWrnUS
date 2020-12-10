@@ -25,14 +25,14 @@ Comment for 12/10/20 00z 96 hour forecast.
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 1, 10, 12, 13, 19, 21, 22, 28 and 30</th>
+      <th>Members 3, 5-7, 9, 14, 16-18, 20, 23, 26, 27 and 29</th>
+      <th>Members 4, 8 and 15</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101801634-cbfc1700-3acb-11eb-9deb-4df4217e1c15.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101801674-d5857f00-3acb-11eb-8068-3fb5b54ea8eb.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101801671-d4ece880-3acb-11eb-8df9-3fe16da2ae6c.png"></td>
     </tr>
 
   <table border="1" cellpadding="1" cellspacing="1">
@@ -47,18 +47,18 @@ Comment for 12/10/20 00z 96 hour forecast.
       <td><img src="https://user-images.githubusercontent.com/75145898/101796960-bb956d80-3ac6-11eb-90b6-eadb9425a40e.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101796952-bafcd700-3ac6-11eb-8407-c4dd3b99de9d.png"></td>
     </tr>
-Comment for 12/9/20 12z 24 hour forecast.
+At this short forecast range the ensemble members have not had a chance to develop any appreciable spread.
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 2-5, 11, 13, 16, 17, 24, 28 and 29</th>
+      <th>Members 7, 18, 19, 21, 26 and 30</th>
+      <th>Members 25</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101801637-cc94ad80-3acb-11eb-9083-5183d2291e33.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101801675-d5857f00-3acb-11eb-9e0c-6fd907969db3.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101801673-d4ece880-3acb-11eb-98b8-18e2e191c59b.png"></td>
     </tr>
 
   <table border="1" cellpadding="1" cellspacing="1">
