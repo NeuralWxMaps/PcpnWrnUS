@@ -21,7 +21,7 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/101796958-bb956d80-3ac6-11eb-9836-865b0ddaa60d.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101796949-ba644080-3ac6-11eb-8db9-5eb6bcb838dd.png"></td>
     </tr>
-Comment for 12/10/20 00z 96 hour forecast.
+Given the large volume of data generated with each new forecast run, this page will only display forecasts where the ensemble mean plot shows a maximum value greater than 10 millimeters, which is four-tenths of an inch during the six hours of the forecast period.  Amounts less than that can be considered light precipitation events with little impact. 
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -99,7 +99,7 @@ At 66 hours there is not much dispersion, even among the two clusters of pattern
       <td><img src="https://user-images.githubusercontent.com/75145898/101796963-bc2e0400-3ac6-11eb-86e6-6cba01884837.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101796954-bafcd700-3ac6-11eb-8c56-f8145576e5d5.png"></td>
     </tr>
-At 72 hours, the blue cluster seems to have acouple more contours over western Nevada than the red cluster has.  This would indicate an extra one to two-tenths of an inch of precipitation. The remainder of these clusters are pretty similar. 
+At 72 hours, the blue cluster seems to have a couple more contours over western Nevada than the red cluster has.  This would indicate an extra one to two-tenths of an inch of precipitation. The remainder of these clusters are pretty similar. 
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -151,7 +151,7 @@ At 96 hours, the blue cluster has more precipitation over southern British Colum
       <td><img src="https://user-images.githubusercontent.com/75145898/101796965-bc2e0400-3ac6-11eb-8381-38a46e481bc1.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101796957-bb956d80-3ac6-11eb-91a3-cd686f644b6d.png"></td>
     </tr>
-Comment for 12/9/20 12z 102 hour forecast.
+At 102 hours, the ensemble mean plot shows the area of precipitation on the Oregon/Nevada border to be surrounded by the second contour, corresponding to 0.20 inches. In the red cluster this area is surrounded by a fifth or sixth contour which would be about a half inch of precipitation. This cluster of patterns shows an area of precipitation with twice as much rainfall as the mean of all members shows.  Since that cluster of patterns is not an outlying pattern, a forecaster for that area would need to consider the possibility that the ensemble mean is underforecasting precipitation in this siutation.
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -177,7 +177,7 @@ Comment for 12/9/20 12z 102 hour forecast.
       <td><img src="https://user-images.githubusercontent.com/75145898/101684684-09a56500-3a24-11eb-9f94-64c4057519f4.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101682680-2e4c0d80-3a21-11eb-8d74-c8e5bee07c45.png"></td>
     </tr>
-Comment for 12/9/20 12z 108 hour forecast.
+At this forecast time the blue cluster of ensemble members has the heavier amount of precipitation over the Oregon/Nevada border region.  Once again the difference between the blue and red clusters in this area is around two-tenths of an inch of liquid water equivalent. If this were falling in the form of snow, you are talking about a 2 to 3 inch difference in forecast amounts.
 <hr>  
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
