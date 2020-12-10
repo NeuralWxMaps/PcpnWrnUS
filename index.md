@@ -97,16 +97,15 @@ At 84 hours, the area of rainfall in the green cluster is displaced westward fro
 At 90 hours, the green cluster once again has more precipitation over southwestern Oregon than the blue and red clusters.  The blue and red clusters appear similar to each other over northwestern Nevada, but the blue cluster shows one-tenth to two-tenths of an inch of rain over eastern Colorado that the red cluster does not show. 
   <hr>
   <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members 1, 2, 4, 7, 9, 10, 14, 18, 20, 23, 25 and 26</th>
+      <th>Members 11, 15, 17 and 21</th>
+      <th>Members 5, 12, 19, 22, 28 and 30</th>
+    </tr>
     <tr>  
       <td><img src="https://user-images.githubusercontent.com/75145898/101691189-90aa0b80-3a2b-11eb-8344-a1d9fe121692.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101691203-97388300-3a2b-11eb-9793-6725212fb8d0.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101691234-a1f31800-3a2b-11eb-89ce-06ad33c09590.png"></td>
-    </tr>
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <td>Members 1, 2, 4, 7, 9, 10, 14, 18, 20, 23, 25 and 26</td>
-      <td>Members 11, 15, 17 and 21</td>
-      <td>Members 5, 12, 19, 22, 28 and 30</td>
     </tr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -123,16 +122,15 @@ At 90 hours, the green cluster once again has more precipitation over southweste
 At 96 hours, the blue cluster shows heavier precipitation amounts over Washington and Oregon than the red and green clusters show. Each contour line represents one-tenth of an inch of liquid equivalent precipitation. 
   <hr>
   <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members 3, 5, 10, 13, 21, 22, 24, 28 and 30</th>
+      <th>Members 12, 15, 16 and 19</th>
+      <th>Members 7, 18, 23 and 29</th>
+    </tr>
     <tr>  
       <td><img src="https://user-images.githubusercontent.com/75145898/101721742-e7343b80-3a65-11eb-812a-d28f648bc7f5.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101721769-f61aee00-3a65-11eb-9d2d-adf4d5a221e0.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101721791-0206b000-3a66-11eb-8af9-f50c23eaf9c9.png"></td>
-    </tr>
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <td>Members 3, 5, 10, 13, 21, 22, 24, 28 and 30</td>
-      <td>Members 12, 15, 16 and 19</td>
-      <td>Members 7, 18, 23 and 29</td>
     </tr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -149,16 +147,15 @@ At 96 hours, the blue cluster shows heavier precipitation amounts over Washingto
 At 102 hours, the red cluster is dry over the Rocky Mountain Region from Montana down through New Mexico while the blue cluster shows at least light precipitation from the northern Montana border down through southern Utah and southern Colorado. The green cluster is dry over the Rocky Mountains except for some light precipitation over southern Wyoming, northern Utah and northern Colorado. 
   <hr>
   <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members 5, 10, 14, 18, 19, 21, 24 and 27-29</th>
+      <th>Members 4, 15, 20 and 26</th>
+      <th>Members 22 and 30</th>
+    </tr>
     <tr>  
       <td><img src="https://user-images.githubusercontent.com/75145898/101721743-e7ccd200-3a65-11eb-8f91-dfba41f128dc.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101721772-f6b38480-3a65-11eb-926f-a186fbd5ef15.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101721792-029f4680-3a66-11eb-9f96-390c89c0f980.png"></td>
-    </tr>
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <td>Members 5, 10, 14, 18, 19, 21, 24 and 27-29</td>
-      <td>Members 4, 15, 20 and 26</td>
-      <td>Members 22 and 30</td>
     </tr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -175,16 +172,15 @@ At 102 hours, the red cluster is dry over the Rocky Mountain Region from Montana
 In this collection of ensemble clusters, note that the green cluster has a bullseye of precipitation over east-central Nevada and a band of precipitation from north-central Colorado up through eastern Wyoming. Neither of these features is represented by the ensemble mean.  In north-central Colorado there are 4 contour lines, representing between four-tenths and one-half inch of liquid water equivalent precipitation. 
   <hr>
   <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members 9, 10, 14-16, 20-23 and 28</th>
+      <th>Members 24, 25 and 29</th>
+      <th>Members 3, 17 and 18</th>
+    </tr>
     <tr>  
       <td><img src="https://user-images.githubusercontent.com/75145898/101721746-e7ccd200-3a65-11eb-871a-8e81d77f6b7f.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101721773-f6b38480-3a65-11eb-86ac-38aa976a6aa7.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101721793-029f4680-3a66-11eb-9a29-d9c944399b6c.png"></td>
-    </tr>
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <td>Members 9, 10, 14-16, 20-23 and 28</td>
-      <td>Members 24, 25 and 29</td>
-      <td>Members 3, 17 and 18</td>
     </tr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -201,16 +197,15 @@ In this collection of ensemble clusters, note that the green cluster has a bulls
 By 114 hours into the forecast, ensemble members are demonstrating quite a bit of dispersion around the Phase-Space plot.  However, a cluster of about 10 members is still evident over the left-central part of the plot.  These members are included in the blue cluster. 
   <hr>
   <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members 12, 15, 17, 20 and 23</th>
+      <th>Members 5, 8, 11, 13, 29 and 30</th>
+      <th>Members 3, 9, 21, 26 and 28</th>
+    </tr>
     <tr>  
       <td><img src="https://user-images.githubusercontent.com/75145898/101721748-e8656880-3a65-11eb-8c50-b997a7d4f938.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101721775-f6b38480-3a65-11eb-893e-53413193b043.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101721794-029f4680-3a66-11eb-91fa-7cb5a9ef072f.png"></td>
-    </tr>
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <td>Members 12, 15, 17, 20 and 23</td>
-      <td>Members 5, 8, 11, 13, 29 and 30</td>
-      <td>Members 3, 9, 21, 26 and 28</td>
     </tr>
     
   <table border="1" cellpadding="1" cellspacing="1">
