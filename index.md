@@ -73,18 +73,18 @@ At this short forecast range the ensemble members have not had a chance to devel
       <td><img src="https://user-images.githubusercontent.com/75145898/101796962-bb956d80-3ac6-11eb-912f-5f2579d7962d.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101796953-bafcd700-3ac6-11eb-8cae-f0233911f039.png"></td>
     </tr>
-Comment for 12/9/20 12z 66 hour forecast.
+At 66 hours there is not much dispersion, even among the two clusters of patterns.  The green cluster, which is outlying member #25, shows a lot of precipitation over eastern Washington that the rest of the ensemble does not have.
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 4, 7, 8, 10, 12, 14, 15, 24, 25 and 30</th>
+      <th>Members 9, 13, 17, 19, 21, 26, 27 and 29</th>
+      <th>Members 20</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101804075-6bbaa480-3ace-11eb-924c-8f8ce3529e12.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101804107-75440c80-3ace-11eb-9ab1-10d471b7592e.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101804156-81c86500-3ace-11eb-98ca-1540f63228d7.png"></td>
     </tr>
 
   <table border="1" cellpadding="1" cellspacing="1">
@@ -103,14 +103,14 @@ Comment for 12/9/20 12z 72 hour forecast.
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 13, 19, 22, 23 and 28</th>
+      <th>Members 1, 4, 16, 20, 26 and 30</th>
+      <th>Members 12, 25 and 29</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101804077-6bbaa480-3ace-11eb-8a7c-b882e64e693b.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101804108-75440c80-3ace-11eb-9790-c8327a191a04.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101804160-81c86500-3ace-11eb-857f-1e6db25a5b8b.png"></td>
     </tr>
 
   <table border="1" cellpadding="1" cellspacing="1">
