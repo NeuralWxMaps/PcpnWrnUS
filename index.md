@@ -9,7 +9,7 @@
       
     
 
-<table border="1" cellpadding="1" cellspacing="1">
+  <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
       <th>12/9/20 00z 36 Hrs</th>
@@ -21,7 +21,7 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/101684684-09a56500-3a24-11eb-9f94-64c4057519f4.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101682680-2e4c0d80-3a21-11eb-8d74-c8e5bee07c45.png"></td>
     </tr>
-<table border="1" cellpadding="1" cellspacing="1">
+  <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Members 2-4, 6, 8, 10-12, 14-16, 19, 20, 22 and 24-27</th>
       <th>Members 1, 5, 17, 28 and 30</th>
@@ -33,8 +33,8 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/101687394-a9b0bd80-3a27-11eb-9ae2-2ee032d0608a.png"></td>
     </tr>
 At 36 hours, the ensemble members have split into two distinct clusters. The red and green clusters are a further split of the secondary cluster.  Forecast rainfall amounts in the red cluster are lower than in the blue and green clusters. 
-
-<table border="1" cellpadding="1" cellspacing="1">
+  <hr>
+  <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
       <th>12/9/20 00z 84 Hrs</th>
@@ -46,7 +46,7 @@ At 36 hours, the ensemble members have split into two distinct clusters. The red
       <td><img src="https://user-images.githubusercontent.com/75145898/101684686-0a3dfb80-3a24-11eb-8581-d3690a2d78e4.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101682682-2ee4a400-3a21-11eb-9de8-8e3332798a57.png"></td>
     </tr>
-<table border="1" cellpadding="1" cellspacing="1">
+  <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Members 2, 5, 10, 12, 13, 17, 19-22, 24 and 27</th>
       <th>Members 3, 7, 14, 18, 25, 26, 28 and 30</th>
@@ -57,8 +57,9 @@ At 36 hours, the ensemble members have split into two distinct clusters. The red
       <td><img src="https://user-images.githubusercontent.com/75145898/101687399-aa495400-3a27-11eb-87e2-bab443748f93.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101687396-aa495400-3a27-11eb-94d9-6dc4bc3ed150.png"></td>
     </tr>
-<p>At 84 hours, the area of rainfall in the green cluster is displaced westward from the blue and red clusters. The red cluster may also have one or two more contours than the blue cluster, meaning an additional one-tenth to two tenths of an inch of rain. </p>
-<table border="1" cellpadding="1" cellspacing="1">
+At 84 hours, the area of rainfall in the green cluster is displaced westward from the blue and red clusters. The red cluster may also have one or two more contours than the blue cluster, meaning an additional one-tenth to two tenths of an inch of rain. 
+  <hr>
+  <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
       <th>12/9/20 00z 90 Hrs</th>
