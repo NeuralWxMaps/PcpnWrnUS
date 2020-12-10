@@ -99,7 +99,7 @@ At 66 hours there is not much dispersion, even among the two clusters of pattern
       <td><img src="https://user-images.githubusercontent.com/75145898/101796963-bc2e0400-3ac6-11eb-86e6-6cba01884837.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101796954-bafcd700-3ac6-11eb-8c56-f8145576e5d5.png"></td>
     </tr>
-Comment for 12/9/20 12z 72 hour forecast.
+At 72 hours, the blue cluster seems to have acouple more contours over western Nevada than the red cluster has.  This would indicate an extra one to two-tenths of an inch of precipitation. The remainder of these clusters are pretty similar. 
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -125,18 +125,18 @@ Comment for 12/9/20 12z 72 hour forecast.
       <td><img src="https://user-images.githubusercontent.com/75145898/101796964-bc2e0400-3ac6-11eb-96c9-dc90c9f535af.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101796955-bb956d80-3ac6-11eb-8a85-95bc8392a2dc.png"></td>
     </tr>
-Comment for 12/9/20 12z 96 hour forecast.
+At 96 hours, the blue cluster has more precipitation over southern British Columbia, on the northern edge of this domain. Otherwise, the three clusters are pretty similar at this time range.
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 11, 22, 23 and 26-28</th>
+      <th>Members 3, 9, 15, 16, 18 and 19</th>
+      <th>Members 7, 10, 20 and 30</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101806734-8fcbb500-3ad1-11eb-8846-20479938131c.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101806763-96f2c300-3ad1-11eb-9d67-e743986f50e9.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101806797-9e19d100-3ad1-11eb-8d8b-b53e0f44160c.png"></td>
     </tr>
 
   <table border="1" cellpadding="1" cellspacing="1">
@@ -155,14 +155,14 @@ Comment for 12/9/20 12z 102 hour forecast.
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 3, 7, 10, 15, 18, 21, 23, 28 and 29</th>
+      <th>Members 8, 13 and 22</th>
+      <th>Members 20 and 30</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101806735-8fcbb500-3ad1-11eb-968d-02f8a04dfd61.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101806766-978b5980-3ad1-11eb-8ddb-320b640126c2.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101806799-9eb26780-3ad1-11eb-9652-64438097c69a.png"></td>
     </tr>
 
   <table border="1" cellpadding="1" cellspacing="1">
