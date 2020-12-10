@@ -21,6 +21,8 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/101684684-09a56500-3a24-11eb-9f94-64c4057519f4.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101682680-2e4c0d80-3a21-11eb-8d74-c8e5bee07c45.png"></td>
     </tr>
+Trying to figure out where this line will show up.
+  <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Members 2-4, 6, 8, 10-12, 14-16, 19, 20, 22 and 24-27</th>
