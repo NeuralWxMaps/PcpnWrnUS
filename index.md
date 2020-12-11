@@ -77,16 +77,15 @@ Comment about 48 hour forecast.
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 7-10, 15, 22, 24, 25, 27, 28 and 30</th>
+      <th>Members 5, 11, 20, 21, 23, 26 and 29</th>
+      <th>Members 6 and 14</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101957522-d945fe00-3bbe-11eb-9883-280c55b45b77.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101957542-df3bdf00-3bbe-11eb-8fd0-051adbe6cb06.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101957561-e7941a00-3bbe-11eb-9638-65f2c0f90132.png"></td>
     </tr>
-
 
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -104,14 +103,14 @@ Comment about 120 hour forecast.
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 5, 14, 21, 23-26, 28 and 30</th>
+      <th>Members 1, 2, 8, 13, 14, 17 and 29</th>
+      <th>Members 3, 4, 12 and 27</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101957523-d945fe00-3bbe-11eb-8dd1-78ac13f2d477.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101957546-dfd47580-3bbe-11eb-9a79-64dfc3ad91e2.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101957564-e7941a00-3bbe-11eb-8c56-5d4a13dd020b.png"></td>
     </tr>
 
 
