@@ -46,7 +46,7 @@ Given the large volume of data generated with each new forecast run, this page w
       <td><img src="https://user-images.githubusercontent.com/75145898/101933305-3e86f880-3b99-11eb-8283-2e2d62ca53e4.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101933298-3d55cb80-3b99-11eb-8cdf-96bd438487f5.png"></td>
     </tr>
-Comment about 42 hour forecast. 
+The blue cluster has a little more precipitation over northwester Nevada than the red cluster has.  Outlying member #30 continues to produce more rain over southwestern Oregon than the other clusters, which do have light precipitation over northern California. 
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -72,7 +72,7 @@ Comment about 42 hour forecast.
       <td><img src="https://user-images.githubusercontent.com/75145898/101933307-3e86f880-3b99-11eb-91c8-47b4f2e5b89b.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101933299-3dee6200-3b99-11eb-8e98-addcf967a1a0.png"></td>
     </tr>
-Comment about 48 hour forecast.  
+The red cluster has lighter precipitation amounts than the blue and green clusters. 
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -98,7 +98,7 @@ Comment about 48 hour forecast.
       <td><img src="https://user-images.githubusercontent.com/75145898/101933308-3e86f880-3b99-11eb-8f6b-a5eb9a416f4a.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101933300-3dee6200-3b99-11eb-8477-162ec21e54e6.png"></td>
     </tr>
-Comment about 120 hour forecast.  
+The blue and red clusters are similar to each other.  The green cluster, which is the average of members 6 and 14 are drier, but they appear near the bottom of the Phase-Space plot. This is an artifact of the self-organizing neural network as it evolves over time.  When the first training data was entered into the self-organizing algorithm, maps containing precipitation would cause the algorithm to assign non-zero patterns to the top of the phase-space plot.  When later and drier data is introduced to the algorithm it will match those patterns to the lower portion of the phase-space plot.  AS the neural network map continues evolving further stratification of the patterns should emerge. 
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -124,7 +124,7 @@ Comment about 120 hour forecast.
       <td><img src="https://user-images.githubusercontent.com/75145898/101933309-3e86f880-3b99-11eb-91c8-761de0416e61.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101933302-3dee6200-3b99-11eb-9daa-b055041782ed.png"></td>
     </tr>
-Comment about 126 hour forecast. 
+Patterns among the three identified clusters are similar, but once again the blue cluster is the wettest. 
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -150,7 +150,7 @@ Comment about 126 hour forecast.
       <td><img src="https://user-images.githubusercontent.com/75145898/101933310-3f1f8f00-3b99-11eb-8dbc-9e40a4ee99f2.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101933303-3dee6200-3b99-11eb-899c-4f425c26a8f9.png"></td>
     </tr>
-Comment about 132 hour forecast. 
+The red and blue clusters are very tight clusters on the phase-space plot, and their precipitaiton pattern have tighter gradients than the blue cluster, whose members are a bit more spread out on the phase-space plot.  
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -176,7 +176,7 @@ Comment about 132 hour forecast.
       <td><img src="https://user-images.githubusercontent.com/75145898/101826766-ae8b7500-3aec-11eb-8c5e-eefa697ad9ff.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101826757-ad5a4800-3aec-11eb-82b6-195bca268628.png"></td>
     </tr>
-Comment about 138 hour forecast. 
+This is a forecast that will verify 6 days in the future, and all three clusters look similar to each other over northern Idaho. The blue cluster has more precipitation over northwestern Nevada.  
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
