@@ -23,14 +23,14 @@ Given the large volume of data generated with each new forecast run, this page w
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 1, 2, 4-6, 8, 10, 11, 16-18, 20, 21, 24 and 27-30</th>
+      <th>Members 12, 22, 23, 25 and 26</th>
+      <th>Members 3 and 15</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101917733-cbc05200-3b85-11eb-91c8-bdd083d9375a.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101917778-d5e25080-3b85-11eb-8c6d-6b45644f0f4c.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101917773-d549ba00-3b85-11eb-9b03-b124199870b9.png"></td>
     </tr>
 
   <table border="1" cellpadding="1" cellspacing="1">
@@ -50,14 +50,14 @@ Comment for 12 hour forecast.
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 2, 6, 7, 11, 13, 16, 19-21, 25 and 27</th>
+      <th>Members 1, 15, 23, 24, 28 and 29</th>
+      <th>Members 5, 10, 22, 26 and 30</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101917735-cc58e880-3b85-11eb-9f5b-6f56bc9f2125.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101917780-d67ae700-3b85-11eb-999c-b351b83dc6e1.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101917777-d5e25080-3b85-11eb-9534-be000bd9c316.png"></td>
     </tr>
 
   <table border="1" cellpadding="1" cellspacing="1">
