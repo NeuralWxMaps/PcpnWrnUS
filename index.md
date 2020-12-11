@@ -6,8 +6,168 @@
   <body>
     <center>Western United States Precipitation Forecasts
   <hr>
-      
+
+
   <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/10/20 12z 42 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101933304-3dee6200-3b99-11eb-8bbe-490dca7ff687.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101933296-3d55cb80-3b99-11eb-8317-5c977f7d482f.png"></td>
+    </tr>
+Given the large volume of data generated with each new forecast run, this page will only display forecasts where the ensemble mean plot shows a maximum value greater than 10 millimeters, which is four-tenths of an inch during the six hours of the forecast period.  Amounts less than that can be considered light precipitation events with little impact. 
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/10/20 12z 48 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101933305-3e86f880-3b99-11eb-8283-2e2d62ca53e4.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101933298-3d55cb80-3b99-11eb-8cdf-96bd438487f5.png"></td>
+    </tr>
+Comment about 42 hour forecast. 
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+
+
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/10/20 12z 120 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101933307-3e86f880-3b99-11eb-91c8-47b4f2e5b89b.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101933299-3dee6200-3b99-11eb-8e98-addcf967a1a0.png"></td>
+    </tr>
+Comment about 48 hour forecast.  
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+
+
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/10/20 12z 126 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101933308-3e86f880-3b99-11eb-8f6b-a5eb9a416f4a.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101933300-3dee6200-3b99-11eb-8477-162ec21e54e6.png"></td>
+    </tr>
+Comment about 120 hour forecast.  
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+
+
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/10/20 12z 132 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101933309-3e86f880-3b99-11eb-91c8-761de0416e61.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101933302-3dee6200-3b99-11eb-9daa-b055041782ed.png"></td>
+    </tr>
+Comment about 126 hour forecast. 
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+
+
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/10/20 12z 138 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101933310-3f1f8f00-3b99-11eb-8dbc-9e40a4ee99f2.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101933303-3dee6200-3b99-11eb-899c-4f425c26a8f9.png"></td>
+    </tr>
+Comment about 132 hour forecast. 
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+
+<table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
       <th>12/10/20 00z 12 Hrs</th>
@@ -19,7 +179,7 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/101826766-ae8b7500-3aec-11eb-8c5e-eefa697ad9ff.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101826757-ad5a4800-3aec-11eb-82b6-195bca268628.png"></td>
     </tr>
-Given the large volume of data generated with each new forecast run, this page will only display forecasts where the ensemble mean plot shows a maximum value greater than 10 millimeters, which is four-tenths of an inch during the six hours of the forecast period.  Amounts less than that can be considered light precipitation events with little impact. 
+Comment about 138 hour forecast. 
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -717,67 +877,4 @@ A few tight clusters of ensemble members appear on the 120 hour Phase-Space plot
     </tr>
   </table>
   
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr> 
-      <td><img src="https://user-images.githubusercontent.com/75145898/101524295-fe303c00-3946-11eb-8048-0b323991f880.png"></td>
-      <td><img src=""></td>
-    </tr>
-    <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101524297-fe303c00-3946-11eb-9353-8d6e8043bcde.png"></td>
-      <td><img src=""></td>
-    </tr>
-    <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101524302-fec8d280-3946-11eb-817c-436481bd2691.png"></td>
-      <td><img src=""></td>
-    </tr>
-    <tr>
-      <td><img src=""></td>
-      <td><img src=""></td>
-    </tr>
-  </table>
-  <hr>
-  
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <th>Phase-Space Plot</th>
-      <th>Dominant Node</th>
-      <th>Individual Member of Dominant Node</th>
-    </tr>
-    <tr>
-      <th></th>
-      <th>Model Run Time:</th>
-      <th>12/7/20 12z</th>
-    </tr>
-    <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101446483-ac54cb00-38e0-11eb-978f-0192be1050b3.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101446564-c393b880-38e0-11eb-89be-810a81563df8.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101446842-487ed200-38e1-11eb-8504-f771a12300dd.png"></td>
-    </tr>
-    <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101446484-aced6180-38e0-11eb-8619-583b336e308f.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101446588-cc848a00-38e0-11eb-8f9a-eafef4311958.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101446843-49176880-38e1-11eb-807a-c4787661c14a.png"></td>
-    </tr>
-    <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101446486-aced6180-38e0-11eb-9159-ec7df6ac7abf.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101446615-d908e280-38e0-11eb-93ab-aa792c5e008f.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101446844-49176880-38e1-11eb-920f-069a855e75ce.png"></td>
-    </tr>
-    <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101446488-aced6180-38e0-11eb-9552-554c4f75f14d.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101446647-e58d3b00-38e0-11eb-92e5-e40eaeec846e.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101446845-49176880-38e1-11eb-901b-441d47585927.png"></td>
-    </tr>
-    <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101446489-aced6180-38e0-11eb-9641-9579076c793c.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101446783-29804000-38e1-11eb-9b2e-dcd118a11d7e.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101446846-49176880-38e1-11eb-80c5-d3f9d992ba5f.png"></td>
-    </tr>
-    <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101446490-ad85f800-38e0-11eb-8b04-1cb091fc12a5.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101446804-356c0200-38e1-11eb-9a08-148e88ade716.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101446847-49afff00-38e1-11eb-8db5-48f0acfe9d18.png"></td>
-    </tr>
-  </table>
-  <hr>
-
+ 
