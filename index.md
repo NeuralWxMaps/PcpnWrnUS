@@ -60,7 +60,6 @@ Comment about 42 hour forecast.
       <td><img src="https://user-images.githubusercontent.com/75145898/101956378-c03c4d80-3bbc-11eb-9659-c233497af0c5.png"></td>
     </tr>
 
-
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
@@ -113,7 +112,6 @@ Comment about 120 hour forecast.
       <td><img src="https://user-images.githubusercontent.com/75145898/101957564-e7941a00-3bbe-11eb-8c56-5d4a13dd020b.png"></td>
     </tr>
 
-
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
@@ -130,18 +128,17 @@ Comment about 126 hour forecast.
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 1, 2, 5, 9, 13, 17, 26 and 30</th>
+      <th>Members 10, 12, 15, 16, 22 and 29</th>
+      <th>Members 11, 23 and 25</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101958538-c6ccc400-3bc0-11eb-9d7c-ca7426471322.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101958561-cfbd9580-3bc0-11eb-991f-828d30a22562.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101958586-dba95780-3bc0-11eb-8024-f8768924d317.png"></td>
     </tr>
 
-
-<table border="1" cellpadding="1" cellspacing="1">
+  <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
       <th>12/10/20 12z 138 Hrs</th>
@@ -157,17 +154,17 @@ Comment about 132 hour forecast.
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 8, 10, 15-17, 21, 22 and 26</th>
+      <th>Members 4, 5, 7, 11, 12, 14 and 23</th>
+      <th>Members 1, 13, 24, 25 and 30</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101958539-c7655a80-3bc0-11eb-860e-1d3ca733df1b.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101958562-d0562c00-3bc0-11eb-9ff3-c631467ab6ab.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101958587-dc41ee00-3bc0-11eb-9137-e02964af00ca.png"></td>
     </tr>
 
-<table border="1" cellpadding="1" cellspacing="1">
+  <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
       <th>12/10/20 00z 12 Hrs</th>
