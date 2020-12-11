@@ -78,7 +78,7 @@ Comment for 54 hour forecast.
     <tr>
       <th>Members 1, 3, 5, 7, 8, 10, 12, 13, 15-17 and 19-30</th>
       <th>Members 4, 11 and 18</th>
-      <th>Members 6</th>
+      <th>Member 6</th>
     </tr>
     <tr>  
       <td><img src="https://user-images.githubusercontent.com/75145898/101919528-eb587a00-3b87-11eb-91d4-d88ac4d7f0df.png"></td>
@@ -128,15 +128,19 @@ Comment for 72 hour forecast.
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 4, 7, 9-11, 14, 17, 20 and 22</th>
+      <th>Members 3, 8, 13, 18, 21, 23-25 and 27-29</th>
+      <th>Member 6</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101928074-6888ec80-3b92-11eb-9f42-103d7e38c70f.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101928122-72125480-3b92-11eb-9f9b-1890ae0d9b11.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101928153-79396280-3b92-11eb-9974-29eb8d4f6a8b.png"></td>
     </tr>
+
+![Blue84hr](https://user-images.githubusercontent.com/75145898/101928079-69218300-3b92-11eb-9de2-7ed25c1b29f8.png)
+![Red84hr](https://user-images.githubusercontent.com/75145898/101928125-72aaeb00-3b92-11eb-892f-a19fce1588f9.png)
+![Green84hr](https://user-images.githubusercontent.com/75145898/101928155-79d1f900-3b92-11eb-8e7a-2c9c8947a938.png)
 
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -154,14 +158,14 @@ Comment for 78 hour forecast.
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 3, 7, 23, 24, 29 and 30</th>
+      <th>Members 10, 13, 15, 26 and 27</th>
+      <th>Members 2, 8, 12, 14, 16, 17 and 21</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101928079-69218300-3b92-11eb-9de2-7ed25c1b29f8.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101928125-72aaeb00-3b92-11eb-892f-a19fce1588f9.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/101928155-79d1f900-3b92-11eb-8e7a-2c9c8947a938.png"></td>
     </tr>
 
   <table border="1" cellpadding="1" cellspacing="1">
