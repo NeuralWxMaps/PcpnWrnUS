@@ -46,7 +46,7 @@ Given the large volume of data generated with each new forecast run, this page w
       <td><img src="https://user-images.githubusercontent.com/75145898/101826760-adf2de80-3aec-11eb-8232-c054681f4aec.png"></td>
     </tr>
 
-Comment for 12 hour forecast.
+At this short forecast range, all of the ensemble members are forecasting about the same thing. The model did a good job of forecasting rainfall amounts around one-half of an inch in the far west Texas panhandle, but none of the ensemble members forecast a band of showers that developed over southern Arizona which brought Phoenix their first precipitation in over 3 months. The precipitation over southern Arizona was actually a little heavier than what fell over New Mexico, based on radar estimates. But, the Arizona convection may have been more convective in nature than the shield of precipitation over New Mexico.
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -72,7 +72,7 @@ Comment for 12 hour forecast.
       <td><img src="https://user-images.githubusercontent.com/75145898/101826768-af240b80-3aec-11eb-90d2-981d0ec6e0f4.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101826761-adf2de80-3aec-11eb-8dea-fa5495d83e70.png"></td>
     </tr>
-Comment for 54 hour forecast.
+At 54 hours, each of the clusters are very similar to each other.
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -98,7 +98,7 @@ Comment for 54 hour forecast.
       <td><img src="https://user-images.githubusercontent.com/75145898/101826770-af240b80-3aec-11eb-8bdb-ddb589c88474.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101826762-adf2de80-3aec-11eb-8ab2-71f4f8b7203a.png"></td>
     </tr>
-Comment for 60 hour forecast.
+At 60 hours, forecasts over northwestern Nevada are similar to each other, but the red cluster and closely related member #6 show more precipitation over northern California and southwestern Oregon.  Member #6 is particularly moist over southwestern Oregon.  But it seems to be the only member producing precipitation in that area, so it can probably be considered an outlier at this point. 
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -124,7 +124,7 @@ Comment for 60 hour forecast.
       <td><img src="https://user-images.githubusercontent.com/75145898/101826771-af240b80-3aec-11eb-881a-0a99d5e7fb4f.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101826763-ae8b7500-3aec-11eb-8f85-4a41f1816365.png"></td>
     </tr>
-Comment for 72 hour forecast.
+Although the clusters of ensemble members are spread across the Phase-Space plot, each cluster appears to be pretty similar to the ensemble mean plot. The blue cluster appears to have values pretty close to the ensemble mean, while the red and green clusters have fewer contour lines, indicating precipitation lower than the ensemble mean. 
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -138,10 +138,6 @@ Comment for 72 hour forecast.
       <td><img src="https://user-images.githubusercontent.com/75145898/101928153-79396280-3b92-11eb-9974-29eb8d4f6a8b.png"></td>
     </tr>
 
-![Blue84hr](https://user-images.githubusercontent.com/75145898/101928079-69218300-3b92-11eb-9de2-7ed25c1b29f8.png)
-![Red84hr](https://user-images.githubusercontent.com/75145898/101928125-72aaeb00-3b92-11eb-892f-a19fce1588f9.png)
-![Green84hr](https://user-images.githubusercontent.com/75145898/101928155-79d1f900-3b92-11eb-8e7a-2c9c8947a938.png)
-
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
@@ -154,7 +150,7 @@ Comment for 72 hour forecast.
       <td><img src="https://user-images.githubusercontent.com/75145898/101826772-af240b80-3aec-11eb-9c1f-be22f22afaf8.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101826764-ae8b7500-3aec-11eb-8b79-88cf832515b3.png"></td>
     </tr>
-Comment for 78 hour forecast.
+Similar to the comments for the 60 hour forecast, the blue and red clusters stay pretty close to the ensemble mean.  Once again, member #6 is wetter than the average value of the other clusters, so this member is still considered to be an outlier.
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -180,7 +176,7 @@ Comment for 78 hour forecast.
       <td><img src="https://user-images.githubusercontent.com/75145898/101796958-bb956d80-3ac6-11eb-9836-865b0ddaa60d.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101796949-ba644080-3ac6-11eb-8db9-5eb6bcb838dd.png"></td>
     </tr>
-Comment for 84 hour foecast.
+At 84 hours, each of the identified clusters are staying pretty close to the ensemble mean.
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
