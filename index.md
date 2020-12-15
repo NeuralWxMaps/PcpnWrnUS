@@ -24,14 +24,14 @@ Given the large volume of data generated with each new forecast run, this page w
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 12, 18-22, 28 and 30</th>
+      <th>Members 2, 24 and 29</th>
+      <th>Members 14 and 27</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102263334-634cda00-3ed1-11eb-8091-7c13e8b92459.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102263369-72cc2300-3ed1-11eb-928f-b3dfb8d6421e.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102263366-72338c80-3ed1-11eb-937d-56583938301c.png"></td>
     </tr>
 
   <table border="1" cellpadding="1" cellspacing="1">
@@ -50,14 +50,14 @@ Comment about 72 hour forecast.
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 9, 13, 18, 24 and 27-29</th>
+      <th>Members 16 and 30</th>
+      <th>Members 3 and 10</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102263335-634cda00-3ed1-11eb-8161-42fe71a83398.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102263370-72cc2300-3ed1-11eb-8dd8-03143d6ab10f.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102263368-72338c80-3ed1-11eb-8256-5fb374d760bc.png"></td>
     </tr>
 
   <table border="1" cellpadding="1" cellspacing="1">
@@ -861,95 +861,5 @@ A few tight clusters of ensemble members appear on the 120 hour Phase-Space plot
       <td>Members 2, 3, 18, 22, 26, 27 and 30</td>
       <td>Members 6, 11, 16 and 19</td>
     </tr>
-
-<table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <th>Model RunTime:</th>
-      <th>12/8/20 00z</th>
-      <th></th>
-    <tr>
-      <th>Phase-Space Plot</th>
-      <th>Ensemble Mean</th>
-    </tr>
-    <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101524323-025c5980-3947-11eb-9521-32b5008aacf0.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101524287-fcff0f00-3946-11eb-9b0a-bf1fcdba6e3b.png"></td>
-    </tr>
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>  
-      <td><img src="https://user-images.githubusercontent.com/75145898/101524276-fbcde200-3946-11eb-8dab-5dd87be27df2.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101524311-012b2c80-3947-11eb-8ac0-e5edbe9cf6a5.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101524305-ff616900-3946-11eb-9d7b-c8a30830aec5.png"></td>
-    </tr>
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <td>Members 0, 3, 10, 14, 17-20, and 24-26</td>
-      <td>Members 4, 7, 11, 12, 27 and 29</td>
-      <td>Members 1, 5, 6, 9, 15, 16, 21-23, 28 and 30</td>
-    </tr>
-  <hr>
-
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101524325-02f4f000-3947-11eb-86f7-fe6eee2f0751.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101524289-fd97a580-3946-11eb-9696-c0b34db80899.png"></td>
-    </tr>
-  </table>
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>  
-      <td><img src="https://user-images.githubusercontent.com/75145898/101524279-fbcde200-3946-11eb-8428-0c3c9b123fb8.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101524313-012b2c80-3947-11eb-8c68-f31bedadae5f.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101524306-ff616900-3946-11eb-887f-78cd6ee8acc8.png"></td>
-    </tr>
-  </table>
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <td>Members 0, 2-7, 13-21, 23-27 and 30</td>
-      <td>Members 1, 8-10, 12, 22 and 28</td>
-      <td>Members 11 and 29</td>
-    </tr>
   </table>
 
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101524328-02f4f000-3947-11eb-8d9a-36fbd80e54e0.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101524291-fd97a580-3946-11eb-90b6-33b3edba122f.png"></td>
-    </tr>
-  </table>
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101524281-fc667880-3946-11eb-9bc0-0430dc2dd8ab.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101524315-01c3c300-3947-11eb-938f-a43d32761096.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101524308-00929600-3947-11eb-9448-ed42d23c0062.png"></td>
-    </tr>
-  </table>
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <td>Members 0, 4, 5, 13, 16, 17, 19, 21 and 28</td>
-      <td>Members 7, 11, 20, 22, 23, 25 and 30</td>
-      <td>Members 3, 6, 15, 26 and 29</td>
-    </tr>
-  </table>
-  
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101524329-038d8680-3947-11eb-95e5-2df36dd5b091.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101524294-fd97a580-3946-11eb-9c20-77abcd04e0e4.png"></td>
-    </tr>
-  </table>
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101524282-fc667880-3946-11eb-865a-f6289af352a3.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101524320-025c5980-3947-11eb-8247-6b495495e583.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101524309-00929600-3947-11eb-8622-3e8559e359d8.png"></td>
-    </tr>
-  </table>
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <td>Members 3, 4, 14, 18 and 29</td>
-      <td>Members 6, 9, 13, 22 and 27</td>
-      <td>Members 0, 2, 5, 17 and 24</td>
-    </tr>
-  </table>
-  
- 
