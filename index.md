@@ -20,7 +20,7 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/102254629-1dd6df80-3ec6-11eb-800e-44feb5205f91.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102254626-1d3e4900-3ec6-11eb-8630-4c473bab4f7d.png"></td>
     </tr>
-Given the large volume of data generated with each new forecast run, this page will only display forecasts where the ensemble mean plot shows a soem precipitation over Colorado. If forecasters from other regions show interest in this output, I can begin posting data when precipitation is forecast in those areas.  
+Given the large volume of data generated with each new forecast run, this page will only display forecasts where the ensemble mean plot shows some precipitation over Colorado. If forecasters from other regions show interest in this output, I can begin posting data when precipitation is forecast in those areas.  
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -46,7 +46,7 @@ Given the large volume of data generated with each new forecast run, this page w
       <td><img src="https://user-images.githubusercontent.com/75145898/102254631-1e6f7600-3ec6-11eb-9db2-94c4f65c55d7.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102254628-1dd6df80-3ec6-11eb-9f12-e07c9815d8e1.png"></td>
     </tr>
-Comment about 72 hour forecast.
+Each of the colored contours represents 2.5 mm, or one-tenth of an inch.  The black contours on the ensemble mean plot are scaled to the colorbar on the right of the image.  Therefore, the maximum value forecast across the western United States is slightly more than 7 mm, or a little less than three-tenths of an inch.  For the colored contours, a third or fourth closed contour would indicate precipitation amounts heavier than the ensemble mean. The blue and magenta clusters have a fourth contour, located over south-central Wyoming. All three clusters have a third contour that includes north-central Colorado.  Three-tenths of an inch of liqud precipitation in that 6 hour period, so 3 to 5 inches of snow in the mountains Thursday afternoon. 
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -72,7 +72,7 @@ Comment about 72 hour forecast.
       <td><img src=""></td>
       <td><img src=""></td>
     </tr>
-Comment about 78 hour forecast.
+This is the forecast for Thursday evening with the ensemble members showing similar behavior to the previous 6 hours.  The red cluster actually has a fifth closed contour, indicating a half inch of liquid equivalent along the Colorado-Wyoming border.  The other two clusters are not quite as generous, but another 2 to 5 inches of snow may fall in the mountains during this period, based on the ensemble members.  
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -98,7 +98,7 @@ Comment about 78 hour forecast.
       <td><img src="https://user-images.githubusercontent.com/75145898/101933304-3dee6200-3b99-11eb-8bbe-490dca7ff687.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101933296-3d55cb80-3b99-11eb-8317-5c977f7d482f.png"></td>
     </tr>
-Comment about 120 hour forecast
+No graphics or comments for this forecast period.
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -836,30 +836,4 @@ A few tight clusters of ensemble members appear on the 120 hour Phase-Space plot
       <td>Members 13 and 27</td>
     </tr>
     
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <th>Model RunTime:</th>
-      <th>12/8/20 12z 108 Hrs</th>
-      <th></th>
-    <tr>
-      <th>Phase-Space Plot</th>
-      <th>Ensemble Mean</th>
-    </tr>
-    <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101666951-fa1a2200-3a0b-11eb-94e5-0f0c45261925.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101666986-043c2080-3a0c-11eb-8946-d83b4a6a6a91.png"></td>
-    </tr>
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>  
-      <td><img src="https://user-images.githubusercontent.com/75145898/101667004-0c945b80-3a0c-11eb-93e9-0830dc30bd0f.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101667030-128a3c80-3a0c-11eb-8bbe-b44f98e4f5ac.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101667053-19b14a80-3a0c-11eb-9270-3a2ffecacbb1.png"></td>
-    </tr>
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <td>Members 1, 4, 5, 8, 9, 12, 21, 24, 25, 28 and 29</td>
-      <td>Members 2, 3, 18, 22, 26, 27 and 30</td>
-      <td>Members 6, 11, 16 and 19</td>
-    </tr>
-  </table>
 
