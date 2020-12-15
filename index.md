@@ -11,16 +11,16 @@
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
-      <th>12/11/20 00z 36 Hrs</th>
+      <th>12/15/20 00z 72 Hrs</th>
     <tr>
       <th>Phase-Space Plot</th>
       <th>Ensemble Mean</th>
     </tr>
     <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101995837-322e9880-3c8a-11eb-8b44-7a680a7f77f7.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101995833-31960200-3c8a-11eb-996f-3cb6bcbd79fd.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102254629-1dd6df80-3ec6-11eb-800e-44feb5205f91.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102254626-1d3e4900-3ec6-11eb-8630-4c473bab4f7d.png"></td>
     </tr>
-Given the large volume of data generated with each new forecast run, this page will only display forecasts where the ensemble mean plot shows a maximum value greater than 10 millimeters, which is four-tenths of an inch during the six hours of the forecast period.  Amounts less than that can be considered light precipitation events with little impact. 
+Given the large volume of data generated with each new forecast run, this page will only display forecasts where the ensemble mean plot shows a soem precipitation over Colorado. If forecasters from other regions show interest in this output, I can begin posting data when precipitation is forecast in those areas.  
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -37,16 +37,16 @@ Given the large volume of data generated with each new forecast run, this page w
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
-      <th>12/11/20 00z 114 Hrs</th>
+      <th>12/15/20 00z 78 Hrs</th>
     <tr>
       <th>Phase-Space Plot</th>
       <th>Ensemble Mean</th>
     </tr>
     <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101995838-322e9880-3c8a-11eb-8f46-3e7a1fdae7cc.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101995835-322e9880-3c8a-11eb-83a6-63a5ce5bccb4.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102254631-1e6f7600-3ec6-11eb-9db2-94c4f65c55d7.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102254628-1dd6df80-3ec6-11eb-9f12-e07c9815d8e1.png"></td>
     </tr>
-Comment about 36 hour forecast.
+Comment about 72 hour forecast.
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -63,16 +63,16 @@ Comment about 36 hour forecast.
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
-      <th>12/11/20 00z 120 Hrs</th>
+      <th>12/15/20 00z 84 Hrs</th>
     <tr>
       <th>Phase-Space Plot</th>
       <th>Ensemble Mean</th>
     </tr>
     <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101995839-32c72f00-3c8a-11eb-9b3f-da007ec35c92.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101995836-322e9880-3c8a-11eb-9db2-bbca9edcfcd9.png"></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
     </tr>
-Comment about 114 hour forecast.
+Comment about 78 hour forecast.
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
