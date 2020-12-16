@@ -11,7 +11,7 @@
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
-      <th>12/16/20 00z 72 Hrs</th>
+      <th>12/16/20 00z 48 Hrs</th>
     <tr>
       <th>Phase-Space Plot</th>
       <th>Ensemble Mean</th>
@@ -24,14 +24,14 @@ Given the large volume of data generated with each new forecast run, this page w
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 6, 8, 17-20, 22, 25, 28 and 30</th>
+      <th>Members 2, 4, 7, 11, 14, 21, 23 and 29</th>
+      <th>Members 3, 5, 12, 24, 26 and 27</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102385691-63111500-3f8b-11eb-835b-1f760cb1c825.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102385713-6b695000-3f8b-11eb-9d95-a0966a8a4720.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102385709-6ad0b980-3f8b-11eb-983b-288ae684ef35.png"></td>
     </tr>
 
   <table border="1" cellpadding="1" cellspacing="1">
@@ -46,18 +46,18 @@ Given the large volume of data generated with each new forecast run, this page w
       <td><img src="https://user-images.githubusercontent.com/75145898/102382853-1c6deb80-3f88-11eb-9ee0-8ccb1d7ffb32.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102382850-1c6deb80-3f88-11eb-8fef-9e10d2d54355.png"></td>
     </tr>
-Following up on the 72 hour forecast from yesterday.  Looks like amounts are staying about the same. 
+Following up on the 72 hour forecast from yesterday.  Looks like foreast amounts are staying about the same.  We wouldn't expect too much change to the forecast inside of 60 hours. 
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 2, 15, 17, 18, 20, 25 and 29</th>
+      <th>Members 8-12, 24 and 30</th>
+      <th>Members 1, 13 and 26</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102385692-63a9ab80-3f8b-11eb-97fb-1ea6edc81d72.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102385714-6b695000-3f8b-11eb-959a-78ce41a7679e.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102385712-6b695000-3f8b-11eb-83f6-03500b712f70.png"></td>
     </tr>
 
   <table border="1" cellpadding="1" cellspacing="1">
@@ -72,7 +72,7 @@ Following up on the 72 hour forecast from yesterday.  Looks like amounts are sta
       <td><img src="https://user-images.githubusercontent.com/75145898/102254629-1dd6df80-3ec6-11eb-800e-44feb5205f91.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102254626-1d3e4900-3ec6-11eb-8630-4c473bab4f7d.png"></td>
     </tr>
-When there is a forecast of neary an inch of precipitation during a 6 hour period, four-and-a-half days in the future, I've got to take a closer look.
+When there is a forecast of neary an inch of precipitation during a 6 hour period, four-and-a-half days in the future, I've got to take a closer look.  The maximum value for the ensemble mean plot appears to be somewhere around 9-10ths of an inch of liquid in the 6 hour period.  Each of the clusters are showing an area inside the 10th contour, indicating that more than an inch of liquid is possible during the forecast period. Since it will be falling overnight, and probably in the form of snow, a forecast of more than 10 inches may be needed.   
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
