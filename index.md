@@ -11,6 +11,58 @@
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
+      <th>12/16/20 00z 72 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102382851-1c6deb80-3f88-11eb-9513-32b2dc19399e.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102382845-1bd55500-3f88-11eb-900f-4aa50660dbe4.png"></td>
+    </tr>
+Given the large volume of data generated with each new forecast run, this page will only display forecasts where the ensemble mean plot shows some precipitation over Colorado. If forecasters from other regions show interest in this output, I can begin posting data when precipitation is forecast in those areas.  
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/16/20 00z 108 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102382853-1c6deb80-3f88-11eb-9ee0-8ccb1d7ffb32.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102382850-1c6deb80-3f88-11eb-8fef-9e10d2d54355.png"></td>
+    </tr>
+Following up on the 72 hour forecast from yesterday.  Looks like amounts are staying about the same. 
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
       <th>12/15/20 00z 72 Hrs</th>
     <tr>
       <th>Phase-Space Plot</th>
@@ -20,7 +72,7 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/102254629-1dd6df80-3ec6-11eb-800e-44feb5205f91.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102254626-1d3e4900-3ec6-11eb-8630-4c473bab4f7d.png"></td>
     </tr>
-Given the large volume of data generated with each new forecast run, this page will only display forecasts where the ensemble mean plot shows some precipitation over Colorado. If forecasters from other regions show interest in this output, I can begin posting data when precipitation is forecast in those areas.  
+When there is a forecast of neary an inch of precipitation during a 6 hour period, four-and-a-half days in the future, I've got to take a closer look.
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -756,84 +808,3 @@ By 114 hours into the forecast, ensemble members are demonstrating quite a bit o
       <td><img src="https://user-images.githubusercontent.com/75145898/101721794-029f4680-3a66-11eb-91fa-7cb5a9ef072f.png"></td>
     </tr>
     
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <th>Model RunTime:</th>
-      <th>12/8/20 12z 48 Hrs</th>
-      <th></th>
-    <tr>
-      <th>Phase-Space Plot</th>
-      <th>Ensemble Mean</th>
-    </tr>
-    <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101647129-9be24480-39f5-11eb-98bb-9606bb7e66cb.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101647158-a3095280-39f5-11eb-8216-4ca77d583852.png"></td>
-    </tr>
-A few tight clusters of ensemble members appear on the 120 hour Phase-Space plot, but it is difficult to glean very much signal from the spatial plots of these clusters.  Curiously, the blue cluster does not contain a concentrated area of precipitation over southeast Oregon/northwest Nevada the way the mean of all members and the red and green clusters do. 
-  <hr>
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>  
-      <td><img src="https://user-images.githubusercontent.com/75145898/101647189-aa306080-39f5-11eb-8e8b-c76923e4c424.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101647218-b3213200-39f5-11eb-80a4-c861d94bea25.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101647243-b9171300-39f5-11eb-86d3-2ef31fdff663.png"></td>
-    </tr>
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <td>Members 2-4, 16, 18, 21-27 and 30</td>
-      <td>Members 1, 8-10, 12 and 28</td>
-      <td>Member 29</td>
-    </tr>
-    
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <th>Model RunTime:</th>
-      <th>12/8/20 12z 96 Hrs</th>
-      <th></th>
-    <tr>
-      <th>Phase-Space Plot</th>
-      <th>Ensemble Mean</th>
-    </tr>
-    <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101649549-40fe1c80-39f8-11eb-9dba-ea802d2829e8.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101649579-48bdc100-39f8-11eb-9165-58f398c3f7cb.png"></td>
-    </tr>
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>  
-      <td><img src="https://user-images.githubusercontent.com/75145898/101649602-4fe4cf00-39f8-11eb-84fa-3d0b7ade456e.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101649611-54a98300-39f8-11eb-80b8-4dac64eed18e.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101649636-5c692780-39f8-11eb-98cc-732ad943045d.png"></td>
-    </tr>
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <td>Members 1, 2, 14, 16-18, 20, 21 and 28</td>
-      <td>Members 4, 5, 12, 22 and 24</td>
-      <td>Members 13, 23, 25 and 27</td>
-    </tr>
-
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <th>Model RunTime:</th>
-      <th>12/8/20 12z 102 Hrs</th>
-      <th></th>
-    <tr>
-      <th>Phase-Space Plot</th>
-      <th>Ensemble Mean</th>
-    </tr>
-    <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101656645-2c258700-3a00-11eb-8920-dada6eb698fe.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101656726-465f6500-3a00-11eb-8b4a-e547474314fb.png"></td>
-    </tr>
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>  
-      <td><img src="https://user-images.githubusercontent.com/75145898/101656763-4fe8cd00-3a00-11eb-84cb-9bde8c2bb30e.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101656789-570fdb00-3a00-11eb-9ce1-808308ba4fdd.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101656813-5e36e900-3a00-11eb-89e3-179cf9c877db.png"></td>
-    </tr>
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <td>Members 2, 4, 7, 10, 12, 16, 18, 21, 22, 24-26, 29 and 30</td>
-      <td>Members 6, 19 and 20</td>
-      <td>Members 13 and 27</td>
-    </tr>
-    
-
