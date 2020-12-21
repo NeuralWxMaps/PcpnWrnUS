@@ -24,14 +24,14 @@ Given the large volume of data generated with each new forecast run, this page w
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 1, 7, 12, 14, 16, 18, 19 and 21-30</th>
+      <th>Members 6 and 17</th>
+      <th>Members 3 and 15</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102825148-752ff080-439b-11eb-92f1-7df9fef3e495.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102825167-7cef9500-439b-11eb-8afd-57fecefc055d.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102825193-8678fd00-439b-11eb-8851-e25512967720.png"></td>
     </tr>
 
 <table border="1" cellpadding="1" cellspacing="1">
@@ -46,18 +46,18 @@ Given the large volume of data generated with each new forecast run, this page w
       <td><img src="https://user-images.githubusercontent.com/75145898/102821925-3a2abe80-4395-11eb-9892-a5652b7870b0.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102821921-39922800-4395-11eb-94e9-6e51f737709f.png"></td>
     </tr>
-Comment for 48 hours
+Amounts of precipitation forecast across the western United States are so low that averages of individual ensemble members amount to only a little more than one-tenth of an inch.   
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 5, 10, 14-16, 19, 20, 22, 24-28 and 30</th>
+      <th>Members 6 and 17</th>
+      <th>Members 7 and 29</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102825149-752ff080-439b-11eb-8317-785aec0356f0.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102825170-7d882b80-439b-11eb-8c8b-750b614e75bd.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102825194-87119380-439b-11eb-842a-aea172db27f8.png"></td>
     </tr>
 
 
@@ -73,18 +73,18 @@ Comment for 48 hours
       <td><img src="https://user-images.githubusercontent.com/75145898/102821926-3a2abe80-4395-11eb-87f5-bd785e8d3c51.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102821923-39922800-4395-11eb-87ad-8bdf3d151a89.png"></td>
     </tr>
-comment for 54 hours
+Amounts of precipitation forecast across the western United States are so low that averages of individual ensemble members amount to only a little more than one-tenth of an inch.   
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
-      <th>Members </th>
-      <th>Members </th>
-      <th>Members </th>
+      <th>Members 1, 2, 13-15, 20, 24, 25, 28 and 29</th>
+      <th>Members 6, 8, 23 and 30</th>
+      <th>Members 10, 26 and 27</th>
     </tr>
     <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102825150-75c88700-439b-11eb-959c-fd2ef497cc1a.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102825171-7d882b80-439b-11eb-85ef-e200a057ed7d.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102825196-87119380-439b-11eb-9cfa-bf54e994853d.png"></td>
     </tr>
 
   <table border="1" cellpadding="1" cellspacing="1">
@@ -99,7 +99,7 @@ comment for 54 hours
       <td><img src="https://user-images.githubusercontent.com/75145898/102382851-1c6deb80-3f88-11eb-9513-32b2dc19399e.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102382845-1bd55500-3f88-11eb-900f-4aa50660dbe4.png"></td>
     </tr>
-Comment for 60 hours
+Amounts of precipitation forecast across the western United States are so low that averages of individual ensemble members amount to only a little more than one-tenth of an inch.   
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
