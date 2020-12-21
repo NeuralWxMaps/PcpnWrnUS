@@ -8,6 +8,85 @@
   <hr>
 
 
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/21/20 00z 48 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102821924-39922800-4395-11eb-8b82-ff335c894483.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102821918-38f99180-4395-11eb-9975-2d45a51fded2.png"></td>
+    </tr>
+Given the large volume of data generated with each new forecast run, this page will only display forecasts where the ensemble mean plot shows some precipitation over Colorado. If forecasters from other regions show interest in this output, I can begin posting data when precipitation is forecast in those areas.  
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/21/20 00z 54 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102821925-3a2abe80-4395-11eb-9892-a5652b7870b0.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102821921-39922800-4395-11eb-94e9-6e51f737709f.png"></td>
+    </tr>
+Comment for 48 hours
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+
+
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>12/21/20 00z 60 Hrs</th>
+    <tr>
+      <th>Phase-Space Plot</th>
+      <th>Ensemble Mean</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102821926-3a2abe80-4395-11eb-87f5-bd785e8d3c51.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/102821923-39922800-4395-11eb-87ad-8bdf3d151a89.png"></td>
+    </tr>
+comment for 54 hours
+<hr>
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Members </th>
+      <th>Members </th>
+      <th>Members </th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
@@ -20,7 +99,7 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/102382851-1c6deb80-3f88-11eb-9513-32b2dc19399e.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102382845-1bd55500-3f88-11eb-900f-4aa50660dbe4.png"></td>
     </tr>
-Given the large volume of data generated with each new forecast run, this page will only display forecasts where the ensemble mean plot shows some precipitation over Colorado. If forecasters from other regions show interest in this output, I can begin posting data when precipitation is forecast in those areas.  
+Comment for 60 hours
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -707,104 +786,3 @@ At 90 hours, the green cluster once again has more precipitation over southweste
       <td><img src="https://user-images.githubusercontent.com/75145898/101691203-97388300-3a2b-11eb-9793-6725212fb8d0.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/101691234-a1f31800-3a2b-11eb-89ce-06ad33c09590.png"></td>
     </tr>
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <th>Model RunTime:</th>
-      <th>12/9/20 00z 102 Hrs</th>
-    <tr>
-      <th>Phase-Space Plot</th>
-      <th>Ensemble Mean</th>
-    </tr>
-    <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101684690-0ad69200-3a24-11eb-8a78-dcd75a6457c9.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101682688-2ee4a400-3a21-11eb-9ef3-f46855567cbd.png"></td>
-    </tr>
-At 96 hours, the blue cluster shows heavier precipitation amounts over Washington and Oregon than the red and green clusters show. Each contour line represents one-tenth of an inch of liquid equivalent precipitation. 
-  <hr>
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <th>Members 3, 5, 10, 13, 21, 22, 24, 28 and 30</th>
-      <th>Members 12, 15, 16 and 19</th>
-      <th>Members 7, 18, 23 and 29</th>
-    </tr>
-    <tr>  
-      <td><img src="https://user-images.githubusercontent.com/75145898/101721742-e7343b80-3a65-11eb-812a-d28f648bc7f5.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101721769-f61aee00-3a65-11eb-9d2d-adf4d5a221e0.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101721791-0206b000-3a66-11eb-8af9-f50c23eaf9c9.png"></td>
-    </tr>
-<table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <th>Model RunTime:</th>
-      <th>12/9/20 00z 108 Hrs</th>
-    <tr>
-      <th>Phase-Space Plot</th>
-      <th>Ensemble Mean</th>
-    </tr>
-    <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101684693-0ad69200-3a24-11eb-8414-1533e166b404.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101682689-2ee4a400-3a21-11eb-8c38-2fb20ecb0fd1.png"></td>
-    </tr>
-At 102 hours, the red cluster is dry over the Rocky Mountain Region from Montana down through New Mexico while the blue cluster shows at least light precipitation from the northern Montana border down through southern Utah and southern Colorado. The green cluster is dry over the Rocky Mountains except for some light precipitation over southern Wyoming, northern Utah and northern Colorado. 
-  <hr>
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <th>Members 5, 10, 14, 18, 19, 21, 24 and 27-29</th>
-      <th>Members 4, 15, 20 and 26</th>
-      <th>Members 22 and 30</th>
-    </tr>
-    <tr>  
-      <td><img src="https://user-images.githubusercontent.com/75145898/101721743-e7ccd200-3a65-11eb-8f91-dfba41f128dc.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101721772-f6b38480-3a65-11eb-926f-a186fbd5ef15.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101721792-029f4680-3a66-11eb-9f96-390c89c0f980.png"></td>
-    </tr>
-<table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <th>Model RunTime:</th>
-      <th>12/9/20 00z 114 Hrs</th>
-    <tr>
-      <th>Phase-Space Plot</th>
-      <th>Ensemble Mean</th>
-    </tr>
-    <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101684696-0b6f2880-3a24-11eb-8565-fc0032beb15d.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101682690-2f7d3a80-3a21-11eb-98a3-f08a007848bc.png"></td>
-    </tr>
-In this collection of ensemble clusters, note that the green cluster has a bullseye of precipitation over east-central Nevada and a band of precipitation from north-central Colorado up through eastern Wyoming. Neither of these features is represented by the ensemble mean.  In north-central Colorado there are 4 contour lines, representing between four-tenths and one-half inch of liquid water equivalent precipitation. 
-  <hr>
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <th>Members 9, 10, 14-16, 20-23 and 28</th>
-      <th>Members 24, 25 and 29</th>
-      <th>Members 3, 17 and 18</th>
-    </tr>
-    <tr>  
-      <td><img src="https://user-images.githubusercontent.com/75145898/101721746-e7ccd200-3a65-11eb-871a-8e81d77f6b7f.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101721773-f6b38480-3a65-11eb-86ac-38aa976a6aa7.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101721793-029f4680-3a66-11eb-9a29-d9c944399b6c.png"></td>
-    </tr>
-<table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <th>Model RunTime:</th>
-      <th>12/9/20 00z 120 Hrs</th>
-    <tr>
-      <th>Phase-Space Plot</th>
-      <th>Ensemble Mean</th>
-    </tr>
-    <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101684697-0b6f2880-3a24-11eb-8ac4-931540ccda1f.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101682692-2f7d3a80-3a21-11eb-90a3-d0b1a03ea8a2.png"></td>
-    </tr>
-By 114 hours into the forecast, ensemble members are demonstrating quite a bit of dispersion around the Phase-Space plot.  However, a cluster of about 10 members is still evident over the left-central part of the plot.  These members are included in the blue cluster. 
-  <hr>
-  <table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <th>Members 12, 15, 17, 20 and 23</th>
-      <th>Members 5, 8, 11, 13, 29 and 30</th>
-      <th>Members 3, 9, 21, 26 and 28</th>
-    </tr>
-    <tr>  
-      <td><img src="https://user-images.githubusercontent.com/75145898/101721748-e8656880-3a65-11eb-8c50-b997a7d4f938.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101721775-f6b38480-3a65-11eb-893e-53413193b043.png"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/101721794-029f4680-3a66-11eb-91fa-7cb5a9ef072f.png"></td>
-    </tr>
-    
