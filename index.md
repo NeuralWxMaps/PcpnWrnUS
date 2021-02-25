@@ -53,8 +53,43 @@ Here are the neural network plots and accompanying dominant node precipitation m
       <th>42 Hour Forecast</th>
       <th>Dominant Node</th>
     </tr>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109231836-7f4be200-7784-11eb-80a2-43a67cfb9e5f.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109231848-807d0f00-7784-11eb-82cf-12518a88ae4f.png"></td>
+    </tr>
+    <tr>
+      <th>48 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109231838-7fe47880-7784-11eb-8762-ba5412ca6542.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109231847-807d0f00-7784-11eb-904b-2f480c155030.png"></td>
+    </tr>
+    <tr>
+      <th>54 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109231839-7fe47880-7784-11eb-8149-4b6672d72b5d.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109231851-8115a580-7784-11eb-9a46-713d6e756445.png"></td>
+    </tr>
+    <tr>
+      <th>60 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109231842-7fe47880-7784-11eb-9bdd-0d92dde1c468.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109231852-8115a580-7784-11eb-9d35-f7d6ca857530.png"></td>
+    </tr>
+    <tr>
+      <th>66 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109231843-807d0f00-7784-11eb-81c0-ca09670dc38a.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109231853-81ae3c00-7784-11eb-8932-91843039c71e.png"></td>
+    </tr>
+    <tr>
+      <th>72 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109231845-807d0f00-7784-11eb-91ca-80eafc3ffa20.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109231850-8115a580-7784-11eb-93a5-d7e056d34484.png"></td>
     </tr>
 
 
