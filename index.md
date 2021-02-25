@@ -8,7 +8,8 @@
   <hr>
 
 
-Here are the neural network plots and accompanying dominant node precipitation maps from the February 25, 2021 00z GEFS model run. Initially there is very little spread among the ensemble forecast members, but after 24 to 36 hours, the solutions begin to disperse. After 36 hours, there is some clustering of ensemble members, but as forecast lead times increase, it becomes increasingly difficult to identify any dominant clusters.
+Here are the neural network plots and accompanying dominant node precipitation maps from the February 25, 2021 00z GEFS model run. It doesn't take long for the ensembles to break into a few clusters of solutions. After 36 hours, there is very little clustering of solutions, and identifying dominant clusters is very difficult.
+<hr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
