@@ -20,6 +20,8 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/109185909-acc96900-774d-11eb-8b6f-353507807ff5.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/109185914-ad61ff80-774d-11eb-9482-45846159e814.png"></td>
     </tr>
+
+<table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Neural network node associated with largest cluster of ensemble members</th>
     </tr>
@@ -27,6 +29,8 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/109186017-c2d72980-774d-11eb-93e8-14edbb5bc934.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/109186062-cd91be80-774d-11eb-96f4-b2ce5bf86850.png"></td>
     </tr>
+
+<table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Mean of all ensemble members overlaid with average of the ensemble members contained in the largest cluster</th>
     </tr>
