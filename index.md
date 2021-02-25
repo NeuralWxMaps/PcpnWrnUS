@@ -7,7 +7,10 @@
     <center>Western United States Precipitation Forecasts
   <hr>
 
-
+These are the neural network plots leading up to a snowfall event that occurred over the Colorado Front Range on the evening of 
+February 24, 2021.  Notice the clustering that occurs up to several runs ahead of the event.  In this particular case the GEFS model
+did not forecast very much precipitation over northeast Colorado. 
+<hr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
@@ -50,17 +53,17 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/109186017-c2d72980-774d-11eb-93e8-14edbb5bc934.png" width="600"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/109186062-cd91be80-774d-11eb-96f4-b2ce5bf86850.png" width="600"></td>
     </tr>
-<hr>
+
 Neural network node associated with largest cluster of ensemble members
-<hr>
+
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109186194-e8643300-774d-11eb-8709-d29919b6db9e.png" width="600"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/109186197-e8fcc980-774d-11eb-9b02-52f0c08fcec7.png" width="600"></td>
     </tr>
-<hr>
+
 Mean of all ensemble members overlaid with average of the ensemble members contained in the largest cluster
-<hr>
+
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
@@ -73,6 +76,8 @@ Mean of all ensemble members overlaid with average of the ensemble members conta
       <td><img src="https://user-images.githubusercontent.com/75145898/102821924-39922800-4395-11eb-8b82-ff335c894483.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/102821918-38f99180-4395-11eb-9975-2d45a51fded2.png"></td>
     </tr>
+
+<hr>
 Given the large volume of data generated with each new forecast run, this page will only display forecasts where the ensemble mean plot shows some precipitation over Colorado. If forecasters from other regions show interest in this output, I can begin posting data when precipitation is forecast in those areas.  
 <hr>
   <table border="1" cellpadding="1" cellspacing="1">
