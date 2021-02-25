@@ -7,7 +7,35 @@
     <center>Western United States Precipitation Forecasts
   <hr>
 
+![NN022400z24hr](https://user-images.githubusercontent.com/75145898/109192342-527fd680-7754-11eb-9504-464e226e0cfe.png)
+![NN022400z30hr](https://user-images.githubusercontent.com/75145898/109192344-527fd680-7754-11eb-8a11-e3feef3dc7c0.png)
+![NN022312z36hr](https://user-images.githubusercontent.com/75145898/109192345-53186d00-7754-11eb-8b88-884a69ea19b0.png)
+![NN022312z42hr](https://user-images.githubusercontent.com/75145898/109192347-53186d00-7754-11eb-8548-174a0ae3293b.png)
 
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>2/23/21 12z</th>
+    <tr>
+      <th>36 Hour Forecast</th>
+      <th>42 Hour Forecast</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109192345-53186d00-7754-11eb-8b88-884a69ea19b0.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109192347-53186d00-7754-11eb-8548-174a0ae3293b.png"></td>
+    </tr>
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>2/24/21 00z</th>
+    <tr>
+      <th>24 Hour Forecast</th>
+      <th>30 Hour Forecast</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109192342-527fd680-7754-11eb-9504-464e226e0cfe.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109192344-527fd680-7754-11eb-8a11-e3feef3dc7c0.png"></td>
+    </tr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
@@ -26,15 +54,17 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/109186017-c2d72980-774d-11eb-93e8-14edbb5bc934.png" width="600"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/109186062-cd91be80-774d-11eb-96f4-b2ce5bf86850.png" width="600"></td>
     </tr>
+<hr>
 Neural network node associated with largest cluster of ensemble members
-
+<hr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109186194-e8643300-774d-11eb-8709-d29919b6db9e.png" width="600"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/109186197-e8fcc980-774d-11eb-9b02-52f0c08fcec7.png" width="600"></td>
     </tr>
+<hr>
 Mean of all ensemble members overlaid with average of the ensemble members contained in the largest cluster
-
+<hr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
