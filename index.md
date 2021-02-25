@@ -9,7 +9,7 @@
 
 
 Here are the neural network plots and accompanying dominant node precipitation maps from the February 25, 2021 00z GEFS model run. It doesn't take long for the ensembles to break into a few clusters of solutions. After 36 hours, there is very little clustering of solutions, and identifying dominant clusters is very difficult.
-<hr>
+
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
@@ -57,7 +57,6 @@ Here are the neural network plots and accompanying dominant node precipitation m
       <td><img src=""></td>
     </tr>
 
-<hr>
 
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -71,10 +70,11 @@ Here are the neural network plots and accompanying dominant node precipitation m
       <td><img src="https://user-images.githubusercontent.com/75145898/109206097-adb9c500-7764-11eb-808e-3cfe0354840e.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/109206100-adb9c500-7764-11eb-8e85-afafd897b3fd.png"></td>
     </tr>
+<hr>
 These are the neural network plots leading up to a snowfall event that occurred over the Colorado Front Range on the evening of 
 February 24, 2021.  Notice the clustering that occurs up to several runs ahead of the event.  In this particular case the GEFS model
 did not forecast very much precipitation over northeast Colorado. 
-<hr>
+
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
