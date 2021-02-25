@@ -7,10 +7,47 @@
     <center>Western United States Precipitation Forecasts
   <hr>
 
+
 These are the neural network plots leading up to a snowfall event that occurred over the Colorado Front Range on the evening of 
 February 24, 2021.  Notice the clustering that occurs up to several runs ahead of the event.  In this particular case the GEFS model
 did not forecast very much precipitation over northeast Colorado. 
 <hr>
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>2/22/21 00z</th>
+    <tr>
+      <th>72 Hour Forecast</th>
+      <th>78 Hour Forecast</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109206097-adb9c500-7764-11eb-808e-3cfe0354840e.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109206100-adb9c500-7764-11eb-8e85-afafd897b3fd.png"></td>
+    </tr>
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>2/22/21 12z</th>
+    <tr>
+      <th>60 Hour Forecast</th>
+      <th>66 Hour Forecast</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109206101-ae525b80-7764-11eb-8bcd-a67878bc5a70.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109206102-ae525b80-7764-11eb-99ea-b6e3169b9052.png"></td>
+    </tr>
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>2/23/21 00z</th>
+    <tr>
+      <th>48 Hour Forecast</th>
+      <th>54 Hour Forecast</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109206103-ae525b80-7764-11eb-8e2e-b7ccff6ced11.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109206104-ae525b80-7764-11eb-9728-d260f9a0b1e2.png"></td>
+    </tr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
