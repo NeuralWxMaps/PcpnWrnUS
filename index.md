@@ -8,6 +8,55 @@
   <hr>
 
 
+Here are the neural network plots and accompanying dominant node precipitation maps from the February 25, 2021 00z GEFS model run. Initially there is very little spread among the ensemble forecast members, but after 24 to 36 hours, the solutions begin to disperse. After 36 hours, there is some clustering of ensemble members, but as forecast lead times increase, it becomes increasingly difficult to identify any dominant clusters.
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>2/25/21 00z</th>
+    <tr>
+      <th>12 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109229023-fd59ba00-777f-11eb-9cb6-851868e0a587.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109229028-fe8ae700-777f-11eb-9ac2-ec523eb373fa.png"></td>
+    </tr>
+    <tr>
+      <th>18 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109229024-fdf25080-777f-11eb-85ae-49a01843d52d.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109229032-ff237d80-777f-11eb-9b59-7afa8516dcb4.png"></td>
+    </tr>
+    <tr>
+      <th>24 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109229025-fdf25080-777f-11eb-8eef-911587c3b6e2.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109229031-ff237d80-777f-11eb-9e3e-ec2b11a5305c.png"></td>
+    </tr>
+    <tr>
+      <th>30 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109229026-fe8ae700-777f-11eb-977e-cadaea7f45e7.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109229030-ff237d80-777f-11eb-95a6-7523e99ca488.png"></td>
+    </tr>
+    <tr>
+      <th>36 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109229027-fe8ae700-777f-11eb-9beb-6018b152cf89.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109229029-fe8ae700-777f-11eb-8f40-708e9bd2e324.png"></td>
+    </tr>
+    <tr>
+      <th>42 Hour Forecast</th>
+      <th>Dominant Node</th>
+    </tr>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+
+<hr>
 These are the neural network plots leading up to a snowfall event that occurred over the Colorado Front Range on the evening of 
 February 24, 2021.  Notice the clustering that occurs up to several runs ahead of the event.  In this particular case the GEFS model
 did not forecast very much precipitation over northeast Colorado. 
