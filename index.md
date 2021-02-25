@@ -11,6 +11,32 @@
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
+      <th>2/24/21 12z</th>
+      <th></th>
+    <tr>
+      <th>12 Hour Forecast</th>
+      <th>18 Hour Forecast</th>
+      <th>24 Hour Forecast</th>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109185909-acc96900-774d-11eb-8b6f-353507807ff5.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109185914-ad61ff80-774d-11eb-9482-45846159e814.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109185916-ad61ff80-774d-11eb-94fe-fcbd7aa43ac0.png"></td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109186017-c2d72980-774d-11eb-93e8-14edbb5bc934.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109186062-cd91be80-774d-11eb-96f4-b2ce5bf86850.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109186136-dbdfda80-774d-11eb-855a-e647e7b9792b.png"></td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109186194-e8643300-774d-11eb-8709-d29919b6db9e.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109186197-e8fcc980-774d-11eb-9b02-52f0c08fcec7.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109186199-e8fcc980-774d-11eb-8866-ab2cb0369b55.png"></td>
+    </tr>
+
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
       <th>12/21/20 00z 48 Hrs</th>
     <tr>
       <th>Phase-Space Plot</th>
