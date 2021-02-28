@@ -12,7 +12,7 @@ Here are the neural network plots and accompanying dominant node precipitation m
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
-      <th>2/25/21 00z</th>
+      <th>2/27/21 12z</th>
     <tr>
       <th>12 Hour Forecast</th>
       <th>Dominant Node</th>
@@ -82,7 +82,6 @@ Here are the neural network plots and accompanying dominant node precipitation m
 
 <hr>
 
-Here are the neural network plots and accompanying dominant node precipitation maps from the February 25, 2021 00z GEFS model run. It doesn't take long for the ensembles to break into a few clusters of solutions. After 36 hours, there is very little clustering of solutions, and identifying dominant clusters is very difficult.
 
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
@@ -156,6 +155,8 @@ Here are the neural network plots and accompanying dominant node precipitation m
       <td><img src="https://user-images.githubusercontent.com/75145898/109231850-8115a580-7784-11eb-93a5-d7e056d34484.png"></td>
     </tr>
 
+Here are the neural network plots and accompanying dominant node precipitation maps from the February 25, 2021 00z GEFS model run. It doesn't take long for the ensembles to break into a few clusters of solutions. After 36 hours, there is very little clustering of solutions, and identifying dominant clusters is very difficult.
+<hr>
 
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
