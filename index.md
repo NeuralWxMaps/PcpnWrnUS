@@ -9,6 +9,7 @@
 
 Here are the neural network plots and accompanying dominant node precipitation maps from the February 27, 2021 12z GEFS model run.
 
+
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
@@ -18,67 +19,67 @@ Here are the neural network plots and accompanying dominant node precipitation m
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109409340-35632780-794f-11eb-8b3f-6c8d574e2941.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109409950-ff747200-7953-11eb-9637-64b7b3ebcd2b.png"></td>
     <tr>
       <th>18 Hour Forecast</th>
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109409341-35fbbe00-794f-11eb-8254-85d3f2a04be4.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109409947-ff747200-7953-11eb-8461-594a34a2d44b.png"></td>
     <tr>
       <th>24 Hour Forecast</th>
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109409342-35fbbe00-794f-11eb-88aa-0756fe87969f.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109409942-fe434500-7953-11eb-86df-06c72f35bba5.png"></td>
     <tr>
       <th>30 Hour Forecast</th>
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109409344-35fbbe00-794f-11eb-8049-1e0b63930cae.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109409948-ff747200-7953-11eb-9866-df2805d5be6f.png"></td>
     <tr>
       <th>36 Hour Forecast</th>
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109409345-35fbbe00-794f-11eb-8956-769625162081.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109409948-ff747200-7953-11eb-9866-df2805d5be6f.png"></td>
     <tr>
       <th>42 Hour Forecast</th>
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109409346-35fbbe00-794f-11eb-83a4-2e7bf6830b3b.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109409952-ff747200-7953-11eb-8289-bdd6bde4f194.png"></td>
     <tr>
       <th>48 Hour Forecast</th>
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109409347-36945480-794f-11eb-9d04-1070d33d3c29.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109409944-fedbdb80-7953-11eb-9112-2aac64cd929b.png"></td>
     <tr>
       <th>54 Hour Forecast</th>
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109409348-36945480-794f-11eb-9ef0-bfdfe6cc22fd.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109409943-fedbdb80-7953-11eb-83e0-f404f3972fa4.png"></td>
     <tr>
       <th>60 Hour Forecast</th>
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109409349-36945480-794f-11eb-944a-c1fc4fcff0f6.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109409946-fedbdb80-7953-11eb-95a8-9f07712cc60f.png"></td>
     <tr>
       <th>66 Hour Forecast</th>
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109409350-36945480-794f-11eb-8f4b-fb326d437e3f.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109409941-fe434500-7953-11eb-895d-1d26b88922a7.png"></td>
     <tr>
       <th>72 Hour Forecast</th>
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109409351-372ceb00-794f-11eb-8ffc-b1ff40cc21ad.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109409948-ff747200-7953-11eb-9866-df2805d5be6f.png"></td>
 
 <hr>
 
