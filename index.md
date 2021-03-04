@@ -18,77 +18,77 @@ Here are the neural network plots and accompanying dominant node precipitation m
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109884908-f547c180-7c3a-11eb-93cc-93d36aad0db4.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109915407-090d1b00-7c6f-11eb-8e7a-d032e11eaad6.png"></td>
     <tr>
     <tr>
       <th>18 Hour Forecast</th>
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109884909-f547c180-7c3a-11eb-8e60-8bcf0a0e0b7d.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109915423-12968300-7c6f-11eb-8b53-5843c4175821.png"></td>
     <tr>
     <tr>
       <th>24 Hour Forecast</th>
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109884910-f5e05800-7c3a-11eb-9d96-889bd2463c0c.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109915446-1a562780-7c6f-11eb-8d0c-c2aeec936ce1.png"></td>
     <tr>
     <tr>
       <th>30 Hour Forecast</th>
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109884911-f5e05800-7c3a-11eb-920d-3d278973c398.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109915452-20e49f00-7c6f-11eb-9b3c-d45de1020fb1.png"></td>
     <tr>
     <tr>
       <th>36 Hour Forecast</th>
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109884912-f5e05800-7c3a-11eb-8434-86a1f1f653b6.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109915464-293cda00-7c6f-11eb-8488-1a531e72f2ca.png"></td>
     <tr>
     <tr>
       <th>42 Hour Forecast</th>
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109884913-f5e05800-7c3a-11eb-9336-f9759eb7de44.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109915486-30fc7e80-7c6f-11eb-8729-929f5c61c0d0.png"></td>
     <tr>
     <tr>
       <th>48 Hour Forecast</th>
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109884914-f5e05800-7c3a-11eb-8d16-360c92715e68.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109915523-3b1e7d00-7c6f-11eb-8a4f-2935b02f0e54.png"></td>
     <tr>
     <tr>
       <th>54 Hour Forecast</th>
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109884916-f678ee80-7c3a-11eb-8d9c-59daa1112ccc.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109915571-4a052f80-7c6f-11eb-8d11-f6accc303523.png"></td>
     <tr>
     <tr>
       <th>60 Hour Forecast</th>
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109884917-f678ee80-7c3a-11eb-8eda-abc276b0219e.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109915605-57221e80-7c6f-11eb-893c-5b961116ab60.png"></td>
     <tr>
     <tr>
       <th>66 Hour Forecast</th>
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109884919-f678ee80-7c3a-11eb-9035-4046335232d2.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109915641-63a67700-7c6f-11eb-9e36-67c8cbea29b3.png"></td>
     <tr>
     <tr>
       <th>72 Hour Forecast</th>
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/109884920-f678ee80-7c3a-11eb-89a7-a5956e33efa9.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109915660-6b661b80-7c6f-11eb-8765-5d1756e6fa7e.png"></td>
     <tr>
 
 <hr>
@@ -166,7 +166,7 @@ Here are the neural network plots and accompanying dominant node precipitation m
       <td><img src="https://user-images.githubusercontent.com/75145898/109409948-ff747200-7953-11eb-9866-df2805d5be6f.png"></td>
 
 <hr>
-
+Here are the neural network plots and accompanying dominant node precipitation maps from the February 27, 2021 12z GEFS model run.
 
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
