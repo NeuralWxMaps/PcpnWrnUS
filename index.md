@@ -7,6 +7,8 @@
     <center>Western United States Precipitation Forecasts
   <hr>
 
+Here are the neural network plots and accompanying dominant node precipitation maps from the March 3, 2021 00z GEFS model run.
+
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
@@ -36,22 +38,60 @@
       <th>30 Hour Forecast</th>
       <th>Dominant Node</th>
     <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109884911-f5e05800-7c3a-11eb-920d-3d278973c398.png"></td>
       <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>36 Hour Forecast</th>
+      <th>Dominant Node</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109884912-f5e05800-7c3a-11eb-8434-86a1f1f653b6.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>42 Hour Forecast</th>
+      <th>Dominant Node</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109884913-f5e05800-7c3a-11eb-9336-f9759eb7de44.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>48 Hour Forecast</th>
+      <th>Dominant Node</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109884914-f5e05800-7c3a-11eb-8d16-360c92715e68.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>54 Hour Forecast</th>
+      <th>Dominant Node</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109884916-f678ee80-7c3a-11eb-8d9c-59daa1112ccc.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>60 Hour Forecast</th>
+      <th>Dominant Node</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109884917-f678ee80-7c3a-11eb-8eda-abc276b0219e.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>66 Hour Forecast</th>
+      <th>Dominant Node</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109884919-f678ee80-7c3a-11eb-9035-4046335232d2.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>72 Hour Forecast</th>
+      <th>Dominant Node</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109884920-f678ee80-7c3a-11eb-89a7-a5956e33efa9.png"></td>
       <td><img src=""></td>
     <tr>
 
-![SOMw21030300_12hr](https://user-images.githubusercontent.com/75145898/109884908-f547c180-7c3a-11eb-93cc-93d36aad0db4.png)
-![SOMw21030300_18hr](https://user-images.githubusercontent.com/75145898/109884909-f547c180-7c3a-11eb-8e60-8bcf0a0e0b7d.png)
-![SOMw21030300_24hr](https://user-images.githubusercontent.com/75145898/109884910-f5e05800-7c3a-11eb-9d96-889bd2463c0c.png)
-![SOMw21030300_30hr](https://user-images.githubusercontent.com/75145898/109884911-f5e05800-7c3a-11eb-920d-3d278973c398.png)
-![SOMw21030300_36hr](https://user-images.githubusercontent.com/75145898/109884912-f5e05800-7c3a-11eb-8434-86a1f1f653b6.png)
-![SOMw21030300_42hr](https://user-images.githubusercontent.com/75145898/109884913-f5e05800-7c3a-11eb-9336-f9759eb7de44.png)
-![SOMw21030300_48hr](https://user-images.githubusercontent.com/75145898/109884914-f5e05800-7c3a-11eb-8d16-360c92715e68.png)
-![SOMw21030300_54hr](https://user-images.githubusercontent.com/75145898/109884916-f678ee80-7c3a-11eb-8d9c-59daa1112ccc.png)
-![SOMw21030300_60hr](https://user-images.githubusercontent.com/75145898/109884917-f678ee80-7c3a-11eb-8eda-abc276b0219e.png)
-![SOMw21030300_66hr](https://user-images.githubusercontent.com/75145898/109884919-f678ee80-7c3a-11eb-9035-4046335232d2.png)
-![SOMw21030300_72hr](https://user-images.githubusercontent.com/75145898/109884920-f678ee80-7c3a-11eb-89a7-a5956e33efa9.png)
-
+<hr>
 Here are the neural network plots and accompanying dominant node precipitation maps from the February 27, 2021 12z GEFS model run.
 
 <table border="1" cellpadding="1" cellspacing="1">
