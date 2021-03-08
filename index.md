@@ -7,6 +7,116 @@
     <center>Western United States Precipitation Forecasts
   <hr>
 
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>3/8/21 00z</th>
+    <tr>
+      <th>12 Hour Forecast</th>
+      <th>Dominant Node</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110351187-cdb57800-7ff1-11eb-9b89-fb5ce197c4d4.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>18 Hour Forecast</th>
+      <th>Dominant Node</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110351189-ce4e0e80-7ff1-11eb-85e3-62add85cf4ac.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>24 Hour Forecast</th>
+      <th>Dominant Node</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110351190-ce4e0e80-7ff1-11eb-9e2b-c5b55b3dfe5a.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>30 Hour Forecast</th>
+      <th>Dominant Node</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110351191-cee6a500-7ff1-11eb-802b-6913830c2df1.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>36 Hour Forecast</th>
+      <th>Dominant Node</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110351193-cee6a500-7ff1-11eb-9b0b-17c993078f27.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>42 Hour Forecast</th>
+      <th>Dominant Node</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110351194-cee6a500-7ff1-11eb-9cf5-24c1d1ae3efe.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>48 Hour Forecast</th>
+      <th>Dominant Node</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110351196-cee6a500-7ff1-11eb-9504-b1b2478734bd.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>54 Hour Forecast</th>
+      <th>Dominant Node</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110351197-cee6a500-7ff1-11eb-8ef1-3d1244ebae43.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>60 Hour Forecast</th>
+      <th>Dominant Node</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110351198-cf7f3b80-7ff1-11eb-89b5-edac19af4c98.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>66 Hour Forecast</th>
+      <th>Dominant Node</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110351199-cf7f3b80-7ff1-11eb-842b-b776edda1494.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>72 Hour Forecast</th>
+      <th>Dominant Node</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110351200-cf7f3b80-7ff1-11eb-9214-1dadf4fdfa96.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>78 Hour Forecast</th>
+      <th>Dominant Node</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110351201-cf7f3b80-7ff1-11eb-829d-376cdddc23fd.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>84 Hour Forecast</th>
+      <th>Dominant Node</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110351203-d017d200-7ff1-11eb-886b-fff0bb6a04ed.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>90 Hour Forecast</th>
+      <th>Dominant Node</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110351205-d017d200-7ff1-11eb-9113-f3a1775d4a95.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>96 Hour Forecast</th>
+      <th>Dominant Node</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110351206-d017d200-7ff1-11eb-9778-268b4066f29d.png"></td>
+      <td><img src=""></td>
+    <tr>
+
 
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
