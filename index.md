@@ -24,7 +24,7 @@
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/110351189-ce4e0e80-7ff1-11eb-85e3-62add85cf4ac.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110359954-5ab0ff00-7ffb-11eb-91dc-ad31d17eea49.png"></td>
     <tr>
     <tr>
       <th>24 Hour Forecast</th>
@@ -38,7 +38,7 @@
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/110351191-cee6a500-7ff1-11eb-802b-6913830c2df1.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110359997-6a304800-7ffb-11eb-8a74-51baf804da1f.png"></td>
     <tr>
     <tr>
       <th>36 Hour Forecast</th>
@@ -52,7 +52,7 @@
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/110351194-cee6a500-7ff1-11eb-9cf5-24c1d1ae3efe.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110360035-73211980-7ffb-11eb-9339-efa01a4e228f.png"></td>
     <tr>
     <tr>
       <th>48 Hour Forecast</th>
@@ -66,7 +66,7 @@
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/110351197-cee6a500-7ff1-11eb-8ef1-3d1244ebae43.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110360073-7ddbae80-7ffb-11eb-86c5-c4199a6514c2.png"></td>
     <tr>
     <tr>
       <th>60 Hour Forecast</th>
@@ -80,7 +80,7 @@
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/110351199-cf7f3b80-7ff1-11eb-842b-b776edda1494.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110360101-8633e980-7ffb-11eb-9825-883af663eb03.png"></td>
     <tr>
     <tr>
       <th>72 Hour Forecast</th>
@@ -94,7 +94,7 @@
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/110351201-cf7f3b80-7ff1-11eb-829d-376cdddc23fd.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110360143-951a9c00-7ffb-11eb-8825-2f1da7796470.png"></td>
     <tr>
     <tr>
       <th>84 Hour Forecast</th>
@@ -108,7 +108,7 @@
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/110351205-d017d200-7ff1-11eb-9113-f3a1775d4a95.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110360191-a368b800-7ffb-11eb-84f2-28c89425f173.png"></td>
     <tr>
     <tr>
       <th>96 Hour Forecast</th>
