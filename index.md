@@ -7,6 +7,64 @@
     <center>Western United States Precipitation Forecasts
   <hr>
 
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
+      <th>3/9/21 00z</th>
+    <tr>
+      <th>96 Hour Forecast</th>
+      <th>Dominant Node</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110500443-6f9e9880-80b6-11eb-8b5c-15bbd117b2ba.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>102 Hour Forecast</th>
+      <th>Dominant Node</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110500447-70372f00-80b6-11eb-9615-d0312ac559bd.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>108 Hour Forecast</th>
+      <th>Dominant Node</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110500448-70372f00-80b6-11eb-96e9-5158e20b4d7f.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>114 Hour Forecast</th>
+      <th>Dominant Node</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110500451-70372f00-80b6-11eb-8f2c-f1fcc3b5acde.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>120 Hour Forecast</th>
+      <th>Dominant Node</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110500452-70cfc580-80b6-11eb-9c00-c2c35c9f826d.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>126 Hour Forecast</th>
+      <th>Dominant Node</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110500453-70cfc580-80b6-11eb-9bcf-41f8124f0ee0.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>132 Hour Forecast</th>
+      <th>Dominant Node</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110500455-70cfc580-80b6-11eb-95b6-e2a3f1115b02.png"></td>
+      <td><img src=""></td>
+    <tr>
+
+<hr>
+As residents and meteorologists across Colorado look toward this weekend's forecast, it looks like a pretty good spring storm is in
+the offing.  Here are some graphics that take a closer look at the various ensemble members of the Global Ensemble Forecast System (GEFS) 
+model. 
 
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
