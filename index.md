@@ -7,6 +7,13 @@
     <center>Western United States Precipitation Forecasts
   <hr>
 
+![w3124](https://user-images.githubusercontent.com/75145898/110511467-7da5e680-80c1-11eb-9a67-f257bd1a15dc.png)
+![w3064](https://user-images.githubusercontent.com/75145898/110511497-84ccf480-80c1-11eb-967a-3032b53fc1f7.png)
+![w2128](https://user-images.githubusercontent.com/75145898/110511560-91514d00-80c1-11eb-97f4-0c2c1f340a87.png)
+![w2069](https://user-images.githubusercontent.com/75145898/110511597-9c0be200-80c1-11eb-8543-fca70bbd17a0.png)
+![w22](https://user-images.githubusercontent.com/75145898/110511670-af1eb200-80c1-11eb-9307-fe894c7cf420.png)
+![w360](https://user-images.githubusercontent.com/75145898/110511705-ba71dd80-80c1-11eb-9dbe-b2086657a9c4.png)
+
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
@@ -16,49 +23,49 @@
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/110500443-6f9e9880-80b6-11eb-8b5c-15bbd117b2ba.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110511467-7da5e680-80c1-11eb-9a67-f257bd1a15dc.png"></td>
     <tr>
     <tr>
       <th>102 Hour Forecast</th>
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/110500447-70372f00-80b6-11eb-9615-d0312ac559bd.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110511497-84ccf480-80c1-11eb-967a-3032b53fc1f7.png"></td>
     <tr>
     <tr>
       <th>108 Hour Forecast</th>
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/110500448-70372f00-80b6-11eb-96e9-5158e20b4d7f.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110511467-7da5e680-80c1-11eb-9a67-f257bd1a15dc.png"></td>
     <tr>
     <tr>
       <th>114 Hour Forecast</th>
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/110500451-70372f00-80b6-11eb-8f2c-f1fcc3b5acde.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110511560-91514d00-80c1-11eb-97f4-0c2c1f340a87.png"></td>
     <tr>
     <tr>
       <th>120 Hour Forecast</th>
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/110500452-70cfc580-80b6-11eb-9c00-c2c35c9f826d.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110511597-9c0be200-80c1-11eb-8543-fca70bbd17a0.png"></td>
     <tr>
     <tr>
       <th>126 Hour Forecast</th>
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/110500453-70cfc580-80b6-11eb-9bcf-41f8124f0ee0.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110511670-af1eb200-80c1-11eb-9307-fe894c7cf420.png"></td>
     <tr>
     <tr>
       <th>132 Hour Forecast</th>
       <th>Dominant Node</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/110500455-70cfc580-80b6-11eb-95b6-e2a3f1115b02.png"></td>
-      <td><img src=""></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110511705-ba71dd80-80c1-11eb-9dbe-b2086657a9c4.png"></td>
     <tr>
 
 <hr>
@@ -175,7 +182,9 @@ model.
       <td><img src="https://user-images.githubusercontent.com/75145898/110351206-d017d200-7ff1-11eb-9778-268b4066f29d.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/110358245-6dc2cf80-7ff9-11eb-8d98-e0680057d31f.png"></td>
     <tr>
-
+<hr>
+These precipitation plots do not seem to show very much precipitation over northeast Colorado.  A closer look at the individual ensemble 
+forecasts is necessary, to see if the dominant nodes are not actually the most representative forecasts.
 
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
