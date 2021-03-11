@@ -93,6 +93,7 @@
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/110821243-1b79ec80-824d-11eb-9682-239d660342fd.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/110824935-be803580-8250-11eb-8a69-b30a802b15d9.png"></td>
+
 <hr>
 As residents and meteorologists across Colorado look toward this weekend's forecast, it looks like a pretty good spring storm is in
 the offing.  Here are some graphics that take a closer look at the various ensemble members of the Global Ensemble Forecast System (GEFS) 
@@ -100,6 +101,31 @@ model.
 
 Below are displayed the individual ensemble members sorted by the Neural Map Node that they are matched closest to.
 <hr>
+
+
+
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime: 3/11/21 00z</th>
+      <th>60 Hour Forecasts</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110836715-9d721180-825d-11eb-80be-c9484f0bc1a3.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110836689-93e8a980-825d-11eb-80c2-4a5dabaf84a7.png"></td>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110836766-aa8f0080-825d-11eb-95bd-446393d8deb3.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110836691-94814000-825d-11eb-9458-97510d8249bf.png"></td>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110836767-ab279700-825d-11eb-82a6-44e92aaa5c07.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110836692-94814000-825d-11eb-85c8-b1e23164810a.png"></td>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110836768-ab279700-825d-11eb-87ff-2743c0c68ce0.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110836693-94814000-825d-11eb-80fa-a94f9257cc28.png"></td>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110836769-abc02d80-825d-11eb-9374-110fa0c39bc2.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110836695-9519d680-825d-11eb-8428-023c2c73be56.png"></td>
+    <tr>
+<hr>
+Here are the averages of ensembles for the Neural Net Nodes that had more than one member matched to them.
       
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
