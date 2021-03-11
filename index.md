@@ -7,21 +7,6 @@
     <center>Western United States Precipitation Forecasts
   <hr>
 
-![fcsthr60_m16](https://user-images.githubusercontent.com/75145898/110833229-7580af00-8259-11eb-9a6d-3267049a4940.png)
-![fcsthr60_m17](https://user-images.githubusercontent.com/75145898/110833231-76194580-8259-11eb-9639-d23b661d66f2.png)
-![fcsthr60_m18](https://user-images.githubusercontent.com/75145898/110833232-76194580-8259-11eb-9415-567d7710fb39.png)
-![fcsthr60_m19](https://user-images.githubusercontent.com/75145898/110833233-76194580-8259-11eb-9c73-93cd3ba5448e.png)
-![fcsthr60_m20](https://user-images.githubusercontent.com/75145898/110833234-76194580-8259-11eb-970d-6e990f9b8c77.png)
-![fcsthr60_m21](https://user-images.githubusercontent.com/75145898/110833235-76b1dc00-8259-11eb-8c1e-230d8137c1be.png)
-![fcsthr60_m22](https://user-images.githubusercontent.com/75145898/110833238-76b1dc00-8259-11eb-999c-15ce0c888765.png)
-![fcsthr60_m23](https://user-images.githubusercontent.com/75145898/110833241-76b1dc00-8259-11eb-9992-c8a4c2457f45.png)
-![fcsthr60_m24](https://user-images.githubusercontent.com/75145898/110833243-76b1dc00-8259-11eb-8893-e8683d73de8d.png)
-![fcsthr60_m25](https://user-images.githubusercontent.com/75145898/110833244-774a7280-8259-11eb-84ee-0943d24dd0a4.png)
-![fcsthr60_m26](https://user-images.githubusercontent.com/75145898/110833245-774a7280-8259-11eb-9889-185815e04eb8.png)
-![fcsthr60_m27](https://user-images.githubusercontent.com/75145898/110833248-774a7280-8259-11eb-97a2-51add98f2011.png)
-![fcsthr60_m28](https://user-images.githubusercontent.com/75145898/110833249-774a7280-8259-11eb-9bae-5de2e8845306.png)
-![fcsthr60_m29](https://user-images.githubusercontent.com/75145898/110833252-77e30900-8259-11eb-91be-dc5c324be9b0.png)
-![fcsthr60_m30](https://user-images.githubusercontent.com/75145898/110833253-77e30900-8259-11eb-9736-d3f81407ffeb.png)
 
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
