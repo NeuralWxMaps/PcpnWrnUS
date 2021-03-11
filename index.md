@@ -7,11 +7,6 @@
     <center>Western United States Precipitation Forecasts
   <hr>
 
-![fcsthr60_m11](https://user-images.githubusercontent.com/75145898/110827292-2899da00-8253-11eb-96b2-368baff48b6a.png)
-![fcsthr60_m12](https://user-images.githubusercontent.com/75145898/110827294-29327080-8253-11eb-9c3a-70200227e82f.png)
-![fcsthr60_m13](https://user-images.githubusercontent.com/75145898/110827296-29327080-8253-11eb-9913-278b3e6a42cc.png)
-![fcsthr60_m14](https://user-images.githubusercontent.com/75145898/110827297-29327080-8253-11eb-9641-dd4dfa13b115.png)
-![fcsthr60_m15](https://user-images.githubusercontent.com/75145898/110827298-29327080-8253-11eb-9b11-30f49d74f554.png)
 
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
