@@ -11,6 +11,94 @@
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Model RunTime:</th>
+      <th>3/11/21 00z</th>
+      <th>60 Hour Forecasts</th>
+    <tr>
+      <th>Neural Network Node</th>
+      <th>Matching Ensemble Member</th>
+      <th>Matching Ensemble Member</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110821213-17e66580-824d-11eb-832a-2c159f2ad92e.png"></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110821215-17e66580-824d-11eb-93b8-2205a81ec52f.png"></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110821217-187efc00-824d-11eb-8a63-1e96eb8378dc.png"></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110821218-187efc00-824d-11eb-9c14-c234cc3835ed.png"></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110821221-187efc00-824d-11eb-982e-1e8b93ce7ad7.png"></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110821222-19179280-824d-11eb-98f0-85acb39c004a.png"></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110821223-19179280-824d-11eb-880d-9a271d26924a.png"></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110821224-19179280-824d-11eb-857b-e337eae734a0.png"></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110821225-19b02900-824d-11eb-80d8-b7304becc34c.png"></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110821227-19b02900-824d-11eb-9bf8-dc477da4a6ea.png"></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110821229-19b02900-824d-11eb-89bb-212ba34bfb6e.png"></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110821231-1a48bf80-824d-11eb-9939-41fc0859bffa.png"></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110821235-1a48bf80-824d-11eb-92b8-bb1501ce44fe.png"></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110821237-1a48bf80-824d-11eb-8477-2c686cad3894.png"></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110821238-1ae15600-824d-11eb-8408-e1291ebd90f0.png"></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110821239-1ae15600-824d-11eb-9f85-3bb13f99a8ce.png"></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110821240-1b79ec80-824d-11eb-9d86-3b4429942580.png"></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/110821243-1b79ec80-824d-11eb-9682-239d660342fd.png"></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+<hr>
+As residents and meteorologists across Colorado look toward this weekend's forecast, it looks like a pretty good spring storm is in
+the offing.  Here are some graphics that take a closer look at the various ensemble members of the Global Ensemble Forecast System (GEFS) 
+model. 
+Below are displayed the individual ensemble members sorted by the Neural Map Node that they are matched closest to.
+<hr>
+      
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Model RunTime:</th>
       <th>3/9/21 00z</th>
     <tr>
       <th>96 Hour Forecast</th>
