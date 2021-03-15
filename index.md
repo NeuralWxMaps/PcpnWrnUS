@@ -10,6 +10,75 @@
 
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
+      <th>Forecasts Verifying at 3/14/21 00z</th>
+      <th></th>
+    <tr>
+      <th>Neural Network at 96 hours</th>
+      <th>Primary Ensemble Member</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/111106495-d1c62600-851a-11eb-8474-06a396c24d58.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>Neural Network at 84 hours</th>
+      <th>Primary Ensemble Member</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/111106491-d12d8f80-851a-11eb-90a1-fcdc86510003.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>Neural Network at 72 hours</th>
+      <th>Primary Ensemble Member</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/111106489-d094f900-851a-11eb-8bcf-dd46fb5432ae.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>Neural Network at 60 hours</th>
+      <th>Primary Ensemble Member</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/111106485-d094f900-851a-11eb-829d-cc52d41f7916.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>Neural Network at 48 hours</th>
+      <th>Primary Ensemble Member</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/111106483-cffc6280-851a-11eb-9915-62eaffc33461.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>Neural Network at 36 hours</th>
+      <th>Primary Ensemble Member</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/111106480-cffc6280-851a-11eb-8e21-3f85562a16b3.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>Neural Network at 24 hours</th>
+      <th>Primary Ensemble Member</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/111106477-cf63cc00-851a-11eb-9277-fe604737e245.png"></td>
+      <td><img src=""></td>
+    <tr>
+    <tr>
+      <th>Neural Network at 12 hours</th>
+      <th>Primary Ensemble Member</th>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/111106473-cecb3580-851a-11eb-9893-e744a6c9bf02.png"></td>
+      <td><img src=""></td>
+    <tr>
+
+<hr>
+On the left are graphics that show the distribution of ensemble members of the Global Ensemble Forecast System (GEFS model) within a 
+neural network of western United States precipitation patterns. On the right are the precipitation pattern that matched to the most members
+of the ensemble run at that forecast period. In theory, the average of the largest cluster of members should be the forecast that is most 
+likely to verify correctly. 
+
+<hr>
+      
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
       <th>Model RunTime: 3/11/21 00z</th>
       <th>60 Hour Forecasts</th>
     <tr>
