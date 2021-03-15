@@ -16,49 +16,49 @@
       <th>Neural Network at 96 hours</th>
       <th>Primary Ensemble Member</th>
     <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/111106495-d1c62600-851a-11eb-8474-06a396c24d58.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/111108110-c9bbb580-851d-11eb-9b4b-7dda804c941b.png"></td>
       <td><img src=""></td>
     <tr>
     <tr>
       <th>Neural Network at 84 hours</th>
       <th>Primary Ensemble Member</th>
     <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/111106491-d12d8f80-851a-11eb-90a1-fcdc86510003.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/111108095-c0cae400-851d-11eb-935d-4a21d69e1769.png"></td>
       <td><img src=""></td>
     <tr>
     <tr>
       <th>Neural Network at 72 hours</th>
       <th>Primary Ensemble Member</th>
     <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/111106489-d094f900-851a-11eb-8bcf-dd46fb5432ae.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/111108067-b6104f00-851d-11eb-8156-67c48955d326.png"></td>
       <td><img src=""></td>
     <tr>
     <tr>
       <th>Neural Network at 60 hours</th>
       <th>Primary Ensemble Member</th>
     <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/111106485-d094f900-851a-11eb-829d-cc52d41f7916.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/111108051-aee94100-851d-11eb-85e0-1dfdddee8fe7.png"></td>
       <td><img src=""></td>
     <tr>
     <tr>
       <th>Neural Network at 48 hours</th>
       <th>Primary Ensemble Member</th>
     <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/111106483-cffc6280-851a-11eb-9915-62eaffc33461.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/111108030-a3961580-851d-11eb-9b23-7af26e90d046.png"></td>
       <td><img src=""></td>
     <tr>
     <tr>
       <th>Neural Network at 36 hours</th>
       <th>Primary Ensemble Member</th>
     <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/111106480-cffc6280-851a-11eb-8e21-3f85562a16b3.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/111107998-97aa5380-851d-11eb-8a6a-451f99a952cc.png"></td>
       <td><img src=""></td>
     <tr>
     <tr>
       <th>Neural Network at 24 hours</th>
       <th>Primary Ensemble Member</th>
     <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/111106477-cf63cc00-851a-11eb-9277-fe604737e245.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/111107965-83665680-851d-11eb-95fa-ccd660fb2fb0.png"></td>
       <td><img src=""></td>
     <tr>
     <tr>
