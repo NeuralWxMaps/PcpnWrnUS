@@ -84,7 +84,6 @@ likely to verify correctly.
       <th>60 Hour Forecasts</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/111319244-661fae00-862b-11eb-8323-d9dcb612e8a0.png"></td>
-      <td><img src=""></td>
     <tr>
       <th>Neural Network Node</th>
       <th>Matching Ensemble Member</th>
@@ -183,7 +182,6 @@ Below are displayed the individual ensemble members sorted by the Neural Map Nod
       <th>60 Hour Forecasts</th>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/111319244-661fae00-862b-11eb-8323-d9dcb612e8a0.png"></td>
-      <td><img src=""></td>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/110836715-9d721180-825d-11eb-80be-c9484f0bc1a3.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/110836689-93e8a980-825d-11eb-80c2-4a5dabaf84a7.png"></td>
